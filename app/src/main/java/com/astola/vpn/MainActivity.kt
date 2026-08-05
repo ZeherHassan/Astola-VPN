@@ -17,7 +17,7 @@ import com.astola.vpn.ui.theme.AstolaVPNTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate()
+        super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContent {
             AstolaVPNTheme(themeMode = AppThemeMode.AMOLED) {

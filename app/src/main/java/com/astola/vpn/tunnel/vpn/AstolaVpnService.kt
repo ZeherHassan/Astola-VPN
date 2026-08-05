@@ -54,8 +54,8 @@ class AstolaVpnService : VpnService() {
             logger.info("TUN Virtual Interface Established (fd=${vpnInterface?.fd})")
 
             // Initialize tun2socks bridge
-            vpnInterface?.fileDescriptor?.let { fd ->
-                Tun2SocksBridge.start(fd.fd, "127.0.0.1:1080")
+            vpnInterface?.fd?.let { fdInt ->
+                Tun2SocksBridge.start(fdInt, "127.0.0.1:1080")
             }
         } catch (e: Exception) {
             logger.severe("Failed to start VpnService: ${e.message}")

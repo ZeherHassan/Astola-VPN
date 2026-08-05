@@ -48,8 +48,12 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.astola.vpn.ui.theme.CyberTeal
 import com.astola.vpn.ui.theme.ElectricCyan
+import com.astola.vpn.ui.theme.SlateBackground
+import com.astola.vpn.ui.theme.SlateOutline
+import com.astola.vpn.ui.theme.SlateSurfaceVariant
 import com.astola.vpn.ui.theme.StatusConnected
 import com.astola.vpn.ui.theme.StatusDisconnected
+import com.astola.vpn.ui.theme.TextPrimaryDark
 
 import androidx.compose.runtime.collectAsState
 import androidx.compose.ui.platform.LocalContext
