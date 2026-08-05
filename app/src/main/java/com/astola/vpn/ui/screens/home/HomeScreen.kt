@@ -1,5 +1,8 @@
 package com.astola.vpn.ui.screens.home
 
+import android.app.Activity
+import androidx.activity.compose.rememberLauncherForActivityResult
+import androidx.activity.result.contract.ActivityResultContracts
 import androidx.compose.animation.core.FastOutSlowInEasing
 import androidx.compose.animation.core.RepeatMode
 import androidx.compose.animation.core.animateFloat
@@ -34,18 +37,18 @@ import androidx.compose.material3.Icon
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
-import androidx.compose.runtime.mutableStateOf
-import androidx.compose.runtime.remember
-import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.scale
 import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import com.astola.vpn.tunnel.VpnManager
 import com.astola.vpn.ui.theme.CyberTeal
 import com.astola.vpn.ui.theme.ElectricCyan
 import com.astola.vpn.ui.theme.SlateBackground
@@ -54,10 +57,6 @@ import com.astola.vpn.ui.theme.SlateSurfaceVariant
 import com.astola.vpn.ui.theme.StatusConnected
 import com.astola.vpn.ui.theme.StatusDisconnected
 import com.astola.vpn.ui.theme.TextPrimaryDark
-
-import androidx.compose.runtime.collectAsState
-import androidx.compose.ui.platform.LocalContext
-import com.astola.vpn.tunnel.VpnManager
 
 enum class VpnStatus {
     DISCONNECTED, CONNECTING, CONNECTED
@@ -71,6 +70,29 @@ fun HomeScreen(
     val vpnState by VpnManager.vpnState.collectAsState()
     val downloadSpeed by VpnManager.downloadSpeed.collectAsState()
     val uploadSpeed by VpnManager.uploadSpeed.collectAsState()
+    val activeConfig by VpnManager.activeConfig.collectAsState()
+
+    // System VPN Permission Activity Launcher
+    val vpnPermissionLauncher = rememberLauncherForActivityResult(
+        contract = ActivityResultContracts.StartActivityForResult()
+    ) { result ->
+        if (result.resultCode == Activity.RESULT_OK) {
+            VpnManager.startVpnConnection(context)
+        }
+    }
+
+    fun handleConnectClick() {
+        if (vpnState == VpnStatus.CONNECTED || vpnState == VpnStatus.CONNECTING) {
+            VpnManager.disconnectVpn(context)
+        } else {
+            val prepareIntent = VpnManager.checkVpnPermission(context)
+            if (prepareIntent != null) {
+                vpnPermissionLauncher.launch(prepareIntent)
+            } else {
+                VpnManager.startVpnConnection(context)
+            }
+        }
+    }
 
     Column(
         modifier = modifier
@@ -109,7 +131,7 @@ fun HomeScreen(
                     .background(
                         color = when (vpnState) {
                             VpnStatus.CONNECTED -> StatusConnected.copy(alpha = 0.15f)
-                            VpnStatus.CONNECTING -> MaterialTheme.colorScheme.tertiary.copy(alpha = 0.15f)
+                            VpnStatus.CONNECTING -> ElectricCyan.copy(alpha = 0.15f)
                             VpnStatus.DISCONNECTED -> StatusDisconnected.copy(alpha = 0.15f)
                         },
                         shape = RoundedCornerShape(20.dp)
@@ -141,9 +163,7 @@ fun HomeScreen(
         // Center Animated Connect Button
         ConnectButton(
             vpnState = vpnState,
-            onClick = {
-                VpnManager.toggleVpn(context)
-            }
+            onClick = { handleConnectClick() }
         )
 
         // Live Traffic & Server Info Cards
@@ -174,7 +194,7 @@ fun HomeScreen(
                         Spacer(modifier = Modifier.width(6.dp))
                         Column {
                             Text("Download", fontSize = 11.sp, color = MaterialTheme.colorScheme.onSurfaceVariant)
-                            Text(if (vpnState == VpnStatus.CONNECTED) "4.2 MB/s" else "0.0 KB/s", fontWeight = FontWeight.Bold)
+                            Text(downloadSpeed, fontWeight = FontWeight.Bold)
                         }
                     }
 
@@ -188,7 +208,7 @@ fun HomeScreen(
                         Spacer(modifier = Modifier.width(6.dp))
                         Column {
                             Text("Upload", fontSize = 11.sp, color = MaterialTheme.colorScheme.onSurfaceVariant)
-                            Text(if (vpnState == VpnStatus.CONNECTED) "1.1 MB/s" else "0.0 KB/s", fontWeight = FontWeight.Bold)
+                            Text(uploadSpeed, fontWeight = FontWeight.Bold)
                         }
                     }
                 }
@@ -216,11 +236,10 @@ fun HomeScreen(
                         )
                         Spacer(modifier = Modifier.width(12.dp))
                         Column {
-                            Text("🇵🇰 Pakistan — Fast SSH #1", fontWeight = FontWeight.Bold, fontSize = 14.sp)
-                            Text("SSH | SSL-WebSocket | Port 443", fontSize = 12.sp, color = MaterialTheme.colorScheme.onSurfaceVariant)
+                            Text(activeConfig.title, fontWeight = FontWeight.Bold, fontSize = 14.sp)
+                            Text("${activeConfig.protocol} | ${activeConfig.serverHost}:${activeConfig.serverPort}", fontSize = 12.sp, color = MaterialTheme.colorScheme.onSurfaceVariant)
                         }
                     }
-                    Text("⚡ 35 ms", fontSize = 12.sp, fontWeight = FontWeight.Bold, color = StatusConnected)
                 }
             }
         }

@@ -2,12 +2,25 @@ package com.astola.vpn.tunnel
 
 import android.content.Context
 import android.content.Intent
+import android.net.TrafficStats
+import android.net.VpnService
+import android.os.Process
+import com.astola.vpn.config.AstolaConfigModel
+import com.astola.vpn.tunnel.ssh.SshConfig
+import com.astola.vpn.tunnel.ssh.SshTunnelEngine
+import com.astola.vpn.tunnel.transport.TransportType
 import com.astola.vpn.tunnel.vpn.AstolaVpnService
 import com.astola.vpn.ui.screens.home.VpnStatus
 import com.astola.vpn.util.AppLogger
+import kotlinx.coroutines.CoroutineScope
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.Job
+import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
+import kotlinx.coroutines.launch
+import java.util.Locale
 
 object VpnManager {
     private val _vpnState = MutableStateFlow(VpnStatus.DISCONNECTED)
@@ -19,51 +32,152 @@ object VpnManager {
     private val _uploadSpeed = MutableStateFlow("0.0 KB/s")
     val uploadSpeed: StateFlow<String> = _uploadSpeed.asStateFlow()
 
-    fun toggleVpn(context: Context) {
-        when (_vpnState.value) {
-            VpnStatus.DISCONNECTED -> connectVpn(context)
-            VpnStatus.CONNECTED -> disconnectVpn(context)
-            VpnStatus.CONNECTING -> disconnectVpn(context)
-        }
+    private val _activeConfig = MutableStateFlow(
+        AstolaConfigModel(
+            title = "Default SSH Tunnel",
+            serverHost = "185.220.101.5",
+            serverPort = 443,
+            username = "vpnuser",
+            password = "vpnpassword",
+            payload = "CONNECT [host_port] [protocol][crlf]Host: free.facebook.com[crlf]Upgrade: websocket[crlf][crlf]"
+        )
+    )
+    val activeConfig: StateFlow<AstolaConfigModel> = _activeConfig.asStateFlow()
+
+    private var activeSshEngine: SshTunnelEngine? = null
+    private var speedMonitorJob: Job? = null
+    private val coroutineScope = CoroutineScope(Dispatchers.IO)
+
+    fun updateConfig(config: AstolaConfigModel) {
+        _activeConfig.value = config
     }
 
-    private fun connectVpn(context: Context) {
+    /**
+     * Checks if System VPN Permission is required before connecting.
+     * Returns the prepare Intent if permission is needed, or null if already granted.
+     */
+    fun checkVpnPermission(context: Context): Intent? {
+        return VpnService.prepare(context)
+    }
+
+    fun startVpnConnection(context: Context) {
+        if (_vpnState.value != VpnStatus.DISCONNECTED) return
+
         _vpnState.value = VpnStatus.CONNECTING
-        AppLogger.i("Initiating VPN Connection...")
+        AppLogger.clear()
+        AppLogger.i("Initializing Astola VPN Engine...")
 
-        val intent = Intent(context, AstolaVpnService::class.java).apply {
-            action = AstolaVpnService.ACTION_CONNECT
-        }
+        val currentConfig = _activeConfig.value
 
-        try {
-            if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.O) {
-                context.startForegroundService(intent)
-            } else {
-                context.startService(intent)
+        coroutineScope.launch {
+            try {
+                // Step 1: Start Tunnel Engine
+                AppLogger.i("Connecting to ${currentConfig.serverHost}:${currentConfig.serverPort} via ${currentConfig.protocol}...")
+                
+                val sshConfig = SshConfig(
+                    host = currentConfig.serverHost,
+                    port = currentConfig.serverPort,
+                    username = currentConfig.username,
+                    password = currentConfig.password,
+                    payload = currentConfig.payload,
+                    sniHost = currentConfig.sniHost,
+                    transportType = if (currentConfig.sniHost.isNotBlank()) TransportType.SSL_TLS else TransportType.DIRECT
+                )
+
+                val sshEngine = SshTunnelEngine(sshConfig)
+                activeSshEngine = sshEngine
+
+                val isTunnelStarted = sshEngine.startTunnel()
+                if (!isTunnelStarted) {
+                    AppLogger.e("Tunnel connection failed. Check server address/credentials.")
+                    _vpnState.value = VpnStatus.DISCONNECTED
+                    return@launch
+                }
+
+                AppLogger.s("Tunnel Engine connected. Launching Android VpnService...")
+
+                // Step 2: Start Android VpnService
+                val intent = Intent(context, AstolaVpnService::class.java).apply {
+                    action = AstolaVpnService.ACTION_CONNECT
+                }
+
+                if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.O) {
+                    context.startForegroundService(intent)
+                } else {
+                    context.startService(intent)
+                }
+
+                _vpnState.value = VpnStatus.CONNECTED
+                AppLogger.s("VPN Tunnel Active! Device traffic is now secured.")
+
+                // Step 3: Start Live Traffic Metering
+                startSpeedMonitor()
+
+            } catch (e: Exception) {
+                AppLogger.e("VPN Connection Error: ${e.message}")
+                _vpnState.value = VpnStatus.DISCONNECTED
             }
-            _vpnState.value = VpnStatus.CONNECTED
-            _downloadSpeed.value = "4.2 MB/s"
-            _uploadSpeed.value = "1.1 MB/s"
-            AppLogger.s("Astola VPN Tunnel successfully connected!")
-        } catch (e: Exception) {
-            _vpnState.value = VpnStatus.DISCONNECTED
-            AppLogger.e("Failed to start VPN: ${e.message}")
         }
     }
 
-    private fun disconnectVpn(context: Context) {
-        AppLogger.i("Disconnecting VPN...")
-        val intent = Intent(context, AstolaVpnService::class.java).apply {
-            action = AstolaVpnService.ACTION_DISCONNECT
+    fun disconnectVpn(context: Context) {
+        AppLogger.i("Disconnecting VPN Tunnel...")
+        stopSpeedMonitor()
+
+        coroutineScope.launch {
+            try {
+                activeSshEngine?.stopTunnel()
+                activeSshEngine = null
+
+                val intent = Intent(context, AstolaVpnService::class.java).apply {
+                    action = AstolaVpnService.ACTION_DISCONNECT
+                }
+                context.startService(intent)
+            } catch (e: Exception) {
+                AppLogger.e("Error stopping VPN Service: ${e.message}")
+            } finally {
+                _vpnState.value = VpnStatus.DISCONNECTED
+                _downloadSpeed.value = "0.0 KB/s"
+                _uploadSpeed.value = "0.0 KB/s"
+                AppLogger.i("Astola VPN Disconnected.")
+            }
         }
-        try {
-            context.startService(intent)
-        } catch (e: Exception) {
-            AppLogger.e("Error stopping VPN: ${e.message}")
+    }
+
+    private fun startSpeedMonitor() {
+        speedMonitorJob?.cancel()
+        speedMonitorJob = coroutineScope.launch {
+            var prevRxBytes = TrafficStats.getUidRxBytes(Process.myUid())
+            var prevTxBytes = TrafficStats.getUidTxBytes(Process.myUid())
+
+            while (_vpnState.value == VpnStatus.CONNECTED) {
+                delay(1000)
+                val currentRxBytes = TrafficStats.getUidRxBytes(Process.myUid())
+                val currentTxBytes = TrafficStats.getUidTxBytes(Process.myUid())
+
+                val rxDiff = if (prevRxBytes > 0 && currentRxBytes >= prevRxBytes) currentRxBytes - prevRxBytes else 0
+                val txDiff = if (prevTxBytes > 0 && currentTxBytes >= prevTxBytes) currentTxBytes - prevTxBytes else 0
+
+                prevRxBytes = currentRxBytes
+                prevTxBytes = currentTxBytes
+
+                _downloadSpeed.value = formatSpeed(rxDiff)
+                _uploadSpeed.value = formatSpeed(txDiff)
+            }
         }
-        _vpnState.value = VpnStatus.DISCONNECTED
-        _downloadSpeed.value = "0.0 KB/s"
-        _uploadSpeed.value = "0.0 KB/s"
-        AppLogger.i("Astola VPN disconnected.")
+    }
+
+    private fun stopSpeedMonitor() {
+        speedMonitorJob?.cancel()
+        speedMonitorJob = null
+    }
+
+    private fun formatSpeed(bytesPerSec: Long): String {
+        val kb = bytesPerSec / 1024.0
+        return if (kb >= 1024) {
+            String.format(Locale.US, "%.1f MB/s", kb / 1024.0)
+        } else {
+            String.format(Locale.US, "%.1f KB/s", kb)
+        }
     }
 }
