@@ -1,0 +1,2794 @@
+     👑 ━─━   ☚   ɑ ɾ վ ɑ ղ ️☛   ━─━ 👑
+
+
+╰┈➤  Release  ╮
+
+➠ Join Telegram ¬ @ConfigDecryptor
+
+<><><><><><><><><><><><><><><><><><><><><>
+
+},
+{
+     "server_name":"MASTER 23 SERVER",
+     "server_host":"ppp.bdtunnelproxy.xyz",
+     "server_port":"1194",
+     "server_udp_port":"53",
+     "ssl_port":"443",
+     "category":"Free",
+     "squid_proxy":"ppp.bdtunnelproxy.xyz",
+     "squid_port":"8080",
+     "dns_proxy":"",
+     "custom_cert":"",
+     "username":"",
+     "password":""
+},
+{
+     "server_name":"MASTER 15 SERVER",
+     "server_host":"avt.bdtunnelproxy.xyz",
+     "server_port":"1194",
+     "server_udp_port":"53",
+     "ssl_port":"443",
+     "category":"Free",
+     "squid_proxy":"avt.bdtunnelproxy.xyz",
+     "squid_port":"8080",
+     "dns_proxy":"",
+     "custom_cert":"",
+     "username":"",
+     "password":""
+},
+{
+     "server_name":"MASTER 10 SERVER ",
+     "server_host":"avt.bdtunnelproxy.xyz",
+     "server_port":"1194",
+     "server_udp_port":"53",
+     "ssl_port":"443",
+     "category":"Free",
+     "squid_proxy":"avt.bdtunnelproxy.xyz",
+     "squid_port":"8080",
+     "dns_proxy":"",
+     "custom_cert":"",
+     "username":"",
+     "password":""
+},
+{
+     "server_name":"PACK SERVER ",
+     "server_host":"hz.bdtunnelproxy.xyz",
+     "server_port":"1194",
+     "server_udp_port":"53",
+     "ssl_port":"443",
+     "category":"Free",
+     "squid_proxy":"hz.bdtunnelproxy.xyz",
+     "squid_port":"8080",
+     "dns_proxy":"",
+     "custom_cert":"",
+     "username":"",
+     "password":""
+},
+{
+     "server_name":"Pack server 2",
+     "server_host":"23.88.112.105",
+     "server_port":"1194",
+     "server_udp_port":"53",
+     "ssl_port":"443",
+     "category":"Free",
+     "squid_proxy":"23.88.112.105",
+     "squid_port":"8080",
+     "dns_proxy":"",
+     "custom_cert":"",
+     "username":"",
+     "password":""
+},
+{
+     "server_name":"PACK SERVER 3",
+     "server_host":"88.99.86.24",
+     "server_port":"1194",
+     "server_udp_port":"53",
+     "ssl_port":"443",
+     "category":"Free",
+     "squid_proxy":"88.99.86.24",
+     "squid_port":"8080",
+     "dns_proxy":"",
+     "custom_cert":"",
+     "username":"",
+     "password":""
+},
+{
+     "server_name":"PACK SERVER 04",
+     "server_host":"142.132.236.143",
+     "server_port":"1194",
+     "server_udp_port":"53",
+     "ssl_port":"443",
+     "category":"Free",
+     "squid_proxy":"142.132.236.143",
+     "squid_port":"8080",
+     "dns_proxy":"",
+     "custom_cert":"",
+     "username":"",
+     "password":""
+},
+{
+     "server_name":"🇲🇦 MOROCCO OFPPT",
+     "server_host":"ppp.bdtunnelproxy.xyz",
+     "server_port":"1194",
+     "server_udp_port":"53",
+     "ssl_port":"443",
+     "category":"Free",
+     "squid_proxy":"ppp.bdtunnelproxy.xyz",
+     "squid_port":"8080",
+     "dns_proxy":"",
+     "custom_cert":"",
+     "username":"",
+     "password":""
+},
+{
+     "server_name":"MOROCCO ",
+     "server_host":"ppp.bdtunnelproxy.xyz",
+     "server_port":"1194",
+     "server_udp_port":"53",
+     "ssl_port":"443",
+     "category":"Free",
+     "squid_proxy":"ppp.bdtunnelproxy.xyz",
+     "squid_port":"8080",
+     "dns_proxy":"",
+     "custom_cert":"",
+     "username":"",
+     "password":""
+},
+{
+     "server_name":"MASTER SERVER 11",
+     "server_host":"ppp.bdtunnelproxy.xyz",
+     "server_port":"1194",
+     "server_udp_port":"53",
+     "ssl_port":"443",
+     "category":"Free",
+     "squid_proxy":"ppp.bdtunnelproxy.xyz",
+     "squid_port":"8080",
+     "dns_proxy":"",
+     "custom_cert":"",
+     "username":"",
+     "password":""
+},
+{
+     "server_name":"MASTER SERVER 13",
+     "server_host":"ppp.bdtunnelproxy.xyz",
+     "server_port":"1194",
+     "server_udp_port":"53",
+     "ssl_port":"443",
+     "category":"Free",
+     "squid_proxy":"ppp.bdtunnelproxy.xyz",
+     "squid_port":"8080",
+     "dns_proxy":"",
+     "custom_cert":"",
+     "username":"",
+     "password":""
+}
+],
+"Premium_servers":[
+
+],
+"Vip_servers":[
+
+],
+"Private_servers":[
+
+],
+"Version":"96.9",
+"Changelogs":"⚠️⚠⚠
+                 ️ ️⚠️⚠⚠
+                       ️ ️\nIt's free application don't buy from anyone always
+download from play store apna tunnel vpn \n\nEs una aplicación gratuita, no compre
+a nadie, siempre descárguela de Play Store Apna Tunnel VPN.\n\nÉ aplicativo
+gratuito não compre de ninguém sempre baixe da play store apna tunnel vpn"
+}""{
+   "Payloads":[
+      {
+         "port":"Pulled",
+         "host":"Pulled",
+         "friendly_name":"WhatsApp",
+         "sausage":"www.whatsapp.com",
+         "payload":"",
+         "query":"normal",
+         "message":"WhatsApp Package",
+         "method":"ssl",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"Pulled",
+         "host":"Pulled",
+         "friendly_name":"🇸🇦 KSA I Zain Y25 Pack",
+         "sausage":"m.youtube.com",
+         "payload":"",
+         "query":"normal",
+         "message":"YouTube",
+         "method":"ssl",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"Pulled",
+         "host":"Pulled",
+         "friendly_name":"A - Wi-Fi and Data",
+         "sausage":"m.facebook.com",
+         "payload":"",
+         "query":"normal",
+         "message":"Social",
+         "method":"ssl",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"Pulled",
+         "host":"Pulled",
+         "friendly_name":"🌍 Tiktok package",
+         "sausage":"www.tiktok.com",
+         "payload":"",
+         "query":"normal",
+         "message":"Tiktok",
+         "method":"ssl",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+},
+{
+     "port":"Pulled",
+     "host":"Pulled",
+     "friendly_name":"🌍 Whatsapp package",
+     "sausage":"www.whatsapp.com",
+     "payload":"",
+     "query":"normal",
+     "message":"social",
+     "method":"ssl",
+     "sslws":"true",
+     "dothost":"",
+     "allow_cleartext_auth":false,
+     "remember_creds":false
+},
+{
+     "port":"Pulled",
+     "host":"Pulled",
+     "friendly_name":"🇸🇦 KSA I Zain 60 Rayials",
+     "sausage":"www.snapchat.com",
+     "payload":"",
+     "query":"normal",
+     "message":"312 send 959",
+     "method":"ssl",
+     "sslws":"false",
+     "dothost":"",
+     "allow_cleartext_auth":false,
+     "remember_creds":false
+},
+{
+     "port":"Pulled",
+     "host":"Pulled",
+     "friendly_name":"🌍 Messenger package",
+     "sausage":"www.messenger.com",
+     "payload":"",
+     "query":"normal",
+     "message":"Social",
+     "method":"ssl",
+     "sslws":"false",
+     "dothost":"",
+     "allow_cleartext_auth":false,
+     "remember_creds":false
+},
+{
+     "port":"Pulled",
+     "host":"Pulled",
+     "friendly_name":"🇸🇦 KSA | Zain VB3 1",
+     "sausage":"www.line.me",
+     "payload":"",
+     "query":"normal",
+     "message":"Good working",
+     "method":"ssl",
+     "sslws":"false",
+     "dothost":"",
+     "allow_cleartext_auth":false,
+     "remember_creds":false
+},
+{
+     "port":"Pulled",
+     "host":"Pulled",
+     "friendly_name":"🇸🇦 KSA I Zain VB3 2",
+     "sausage":"www.bbm.com",
+     "payload":"",
+     "query":"normal",
+     "message":"Social",
+     "method":"ssl",
+     "sslws":"false",
+     "dothost":"",
+     "allow_cleartext_auth":false,
+     "remember_creds":false
+},
+{
+     "port":"Pulled",
+     "host":"Pulled",
+     "friendly_name":"🇸🇦 KSA I Zain VB3 #3",
+     "sausage":"www.ovip.icq.com",
+     "payload":"",
+     "query":"normal",
+     "message":"good working ",
+     "method":"ssl",
+     "sslws":"false",
+     "dothost":"",
+     "allow_cleartext_auth":false,
+     "remember_creds":false
+},
+{
+     "port":"Pulled",
+     "host":"Pulled",
+     "friendly_name":"🇸🇦 KSA | Zain VB3 | 4",
+     "sausage":"cs-ocr.clova.line.me",
+     "payload":"",
+     "query":"normal",
+     "message":"good working",
+     "method":"ssl",
+     "sslws":"false",
+     "dothost":"",
+     "allow_cleartext_auth":false,
+     "remember_creds":false
+},
+{
+     "port":"Pulled",
+     "host":"Pulled",
+     "friendly_name":"🇸🇦 KSA I Zain SN3 Package",
+     "sausage":"www.snapchat.com",
+     "payload":"",
+     "query":"normal",
+     "message":"SN3 send 959",
+     "method":"ssl",
+     "sslws":"false",
+     "dothost":"",
+     "allow_cleartext_auth":false,
+     "remember_creds":false
+},
+{
+     "port":"Pulled",
+     "host":"Pulled",
+     "friendly_name":"🇸🇦 KSA I Zain   SM2\/SM3 Package",
+     "sausage":"www.twitter.com",
+           "payload":"",
+           "query":"normal",
+           "message":"Social",
+           "method":"ssl",
+           "sslws":"false",
+           "dothost":"",
+           "allow_cleartext_auth":false,
+           "remember_creds":false
+      },
+      {
+           "port":"Pulled",
+           "host":"Pulled",
+           "friendly_name":"🇸🇦 KSA I Zain Facebook pack",
+           "sausage":"m.facebook.com",
+           "payload":"",
+           "query":"normal",
+           "message":"Social",
+           "method":"ssl",
+           "sslws":"false",
+           "dothost":"",
+           "allow_cleartext_auth":false,
+           "remember_creds":false
+      },
+      {
+           "port":"Pulled",
+           "host":"Pulled",
+           "friendly_name":"🇸🇦 KSA I Zain RWP All Package",
+           "sausage":"",
+           "payload":"www.google.com",
+           "query":"normal",
+           "message":"Social",
+           "method":"http",
+           "sslws":"false",
+           "dothost":"",
+           "allow_cleartext_auth":false,
+           "remember_creds":false
+      },
+      {
+           "port":"443",
+           "host":"Pulled",
+           "friendly_name":"🇸🇦 KSA | STC FREE",
+           "sausage":"",
+           "payload":"",
+           "query":"normal",
+           "message":"Need ip",
+           "method":"direct",
+           "sslws":"false",
+           "dothost":"",
+           "allow_cleartext_auth":false,
+           "remember_creds":false
+      },
+      {
+         "port":"Pulled",
+         "host":"Pulled",
+         "friendly_name":"🇸🇦 KSA I Mobily Free X",
+         "sausage":"",
+         "payload":"CONNECT [host_port]@outcome-ssp.supersonicads.com [protocol]
+[crlf]Host: outcome-ssp.supersonicads.com[crlf]X-Online-Host: outcome-
+ssp.supersonicads.com[crlf]X-Forward-Host: outcome-ssp.supersonicads.com[crlf]X-
+Forwarded-For: outcome-ssp.supersonicads.com[crlf]Connection: Keep-Alive[crlf]User-
+Agent: [ua][crlf][crlf]",
+         "query":"normal",
+         "message":"Unblock Area",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"Pulled",
+         "host":"Pulled",
+         "friendly_name":"🇴🇲OMANTEL SNAPCHAT PACK",
+         "sausage":"chat-internal-snapchat.com",
+         "payload":"",
+         "query":"normal",
+         "message":"",
+         "method":"ssl",
+         "sslws":"true",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"Pulled",
+         "host":"Pulled",
+         "friendly_name":"🇸🇦KSA STC Jawwy TV (1)",
+         "sausage":"",
+         "payload":"GET dl.jawwy.tv@[host_port] [protocol][crlf]Host:
+dl.jawwy.tv[crlf]X-Online-Host: dl.jawwy.tv[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"Pulled",
+         "host":"Pulled",
+         "friendly_name":"🇸🇦KSA STC Jawwy TV (2)",
+         "sausage":"",
+         "payload":"CONNECT [host_port] [protocol][crlf]Host: dl.jawwy.tv[crlf]
+[crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"www.ooredoo.mv",
+         "friendly_name":"Ooredoo Free",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host: [host][crlf]Connection:
+upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"Pulled",
+         "host":"Pulled",
+         "friendly_name":"🇦🇪 Etisalat Social Data",
+         "sausage":"",
+         "payload":"CONNECT [host_port] [protocol][crlf]Host:
+lite.facebook.com[crlf]X-Online-Host: lite.facebook.com[crlf]X-Forwarded-For:
+lite.facebook.com[crlf]Connection: Keep-Alive[crlf][crlf]",
+         "query":"normal",
+         "message":"UAE Social Pack Working",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"dhiraagu.com.mv",
+         "friendly_name":"🇲🇻 Maldives Dhiraagu Free",
+         "sausage":"",
+         "payload":"POST http:\/\/dhiraagu.com.mv\/ HTTP\/1.1[crlf]Host:
+dhiraagu.com.mv[crlf]X-Online-Host: dhiraagu.com.mv[crlf][crlf]CONNECT [host_port]
+[protocol][crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"Pulled",
+         "host":"Pulled",
+         "friendly_name":"🇵🇰 Pakistan Zong WhatsApp pack",
+         "sausage":"",
+         "payload":"POST http:\/\/www.whatsapp.com HTTP\/1.0[crlf]Host:
+http:\/\/www.whatsapp.com[crlf]Connection: keep-alive[crlf]X-Online-Host:
+http:\/\/www.whatsapp.com[crlf]X-Forward-Host: http:\/\/www.whatsapp.com[crlf]
+[crlf]",
+         "query":"normal",
+         "message":"iff no connect flight mode ✈️",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"Pulled",
+         "host":"Pulled",
+         "friendly_name":"🇵🇰AJK SCOM WHATSAPP PACK",
+         "sausage":"",
+         "payload":"POST http:\/\/www.whatsapp.com HTTP\/1.0[crlf]Host:
+http:\/\/www.whatsapp.com[crlf]Connection: keep-alive[crlf]X-Online-Host:
+http:\/\/www.whatsapp.com[crlf]X-Forward-Host: http:\/\/www.whatsapp.com[crlf]
+[crlf]",
+         "query":"normal",
+         "message":"azad Kashmir scom",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"Pulled",
+         "host":"Pulled",
+         "friendly_name":"🇵🇰 Pakistan ufone Facebook",
+         "sausage":"",
+         "payload":"TRACE \/ HTTP\/1.1[crlf]Host: www.facebook.com[crlf]Upgrade:
+websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"Pulled",
+         "host":"Pulled",
+         "friendly_name":"🇵🇰 Pakistan ufone Facebook",
+         "sausage":"m.facebook.com",
+         "payload":"",
+         "query":"normal",
+         "message":"",
+         "method":"ssl",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Pulled",
+         "friendly_name":"🇵🇰 PAKISTAN UFONE FREE 1",
+         "sausage":"",
+         "payload":"CONNECT [host_port] HTTP\/1.0[crlf]Host:
+ufonepk.portal.ncn.mobi.com[crlf][crlf]",
+         "query":"normal",
+         "message":"🔥🔥Zeher Hassan 🔥🔥",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+           "remember_creds":false
+      },
+      {
+           "port":"Pulled",
+           "host":"Pulled",
+           "friendly_name":"🇪🇬WE EG [ x plus x package] ",
+           "sausage":"0.facebook.com",
+           "payload":"",
+           "query":"normal",
+           "message":"EGYPT WORKING",
+           "method":"ssl",
+           "sslws":"false",
+           "dothost":"",
+           "allow_cleartext_auth":false,
+           "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"static.s3.shahid.mbc.net",
+         "friendly_name":"🇸🇦 ZAIN FREE 02 ",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"static.s3.shahid.mbc.net",
+         "friendly_name":"🇸🇦 ZAIN FREE 01",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"www.zainkids-sa.com",
+         "friendly_name":"🇸🇦KSA ZAIN ALL PACKAGE 01",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"ZAIN ALL PACKAGE WORKING ",
+         "method":"http",
+           "sslws":"false",
+           "dothost":"",
+           "allow_cleartext_auth":false,
+           "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Pulled",
+         "friendly_name":"🇵🇰 PAKISTAN UFONE FREE 2",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+ufonepk.filter.ncnd.mobi\/nc[crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"ALI BHAI",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Pulled",
+         "friendly_name":"🇵🇰 PAKISTAN UFONE FREE",
+         "sausage":"CONNECT [host_port] HTTP\/1.0[crlf]Host:
+http:\/\/ufonepk.portal.ncn.mobi.com[crlf][crlf]",
+         "payload":"",
+         "query":"normal",
+         "message":"🔥BoLo TricKs🔥",
+         "method":"ssl",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"54.192.87.46",
+         "friendly_name":"🌍🌐ALL WORLD FREE TEST",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"dl.aw.freefiremobile.com",
+         "friendly_name":"🔥FREE SG aws ✅✅",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+           "query":"normal",
+           "message":"",
+           "method":"http",
+           "sslws":"false",
+           "dothost":"",
+           "allow_cleartext_auth":false,
+           "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"dl.aw.freefiremobile.com",
+         "friendly_name":"👨‍🚒PUBG & FREE FIRE PACK ",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"Pulled",
+         "host":"Pulled",
+         "friendly_name":"🇨🇮 lvoire unlimited",
+         "sausage":"auth.mtn.ci",
+         "payload":"",
+         "query":"normal",
+         "message":"shopma",
+         "method":"ssl",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"bp.lebara.sa",
+         "friendly_name":"🇸🇦 lebara ",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d2f5h5wbtohlsm.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"auth.mtn.com.gn",
+         "friendly_name":"🇬🇳 | Guinea MTN Free",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host: [host][crlf]X-Online-Host: [host]
+[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]
+[crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"cdn.payfort.com",
+         "friendly_name":"🇪🇬Egypt vodafon",
+         "sausage":"",
+         "payload":"GET wss:\/\/Www.presidency.eg HTTP\/1.1[crlf]Host:
+[crlf]Connection: upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"Pulled",
+         "host":"Pulled",
+         "friendly_name":"🇲🇦 Morocco INWI ",
+         "sausage":"support.canvas.snapchat.com",
+         "payload":"support.canvas.snapchat.com",
+         "query":"normal",
+         "message":"",
+         "method":"ssl",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Pulled",
+         "friendly_name":"🇸🇩SDN ZAIN social TikTok ",
+         "sausage":"",
+         "payload":"PROPFIND http:\/\/www.waze.com HTTP\/2[crlf]Host:
+http:\/\/www.waze.com[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Pulled",
+         "friendly_name":"🇦🇪 UAE|Du Data 🔥",
+         "sausage":"",
+         "payload":"PUT http:\/\/10.164.208.4 HTTP\/1.1[crlf]Host:
+http:\/\/10.164.208.4[crlf]X-Online-Host: 10.164.208.4[crlf]User-Agent: [ua]
+[crlf]Connection: Close[crlf]Content-Length: 100000000[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Pulled",
+         "friendly_name":"🇦🇪 UAE|DU PACK",
+         "sausage":"",
+         "payload":"CONNECT [host_port] [protocol][crlf]Host: www.bbm.com[crlf]X-
+Online-Host: www.bbm.com[crlf]Connection: Keep-Alive[crlf][crlf]m",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"104.16.53.111",
+         "friendly_name":"🇲🇦 maroc telecom 100 ip",
+         "sausage":"",
+         "payload":"GET wss:\/\/hz.bdtunnelproxy.xyz HTTP\/1.1[crlf]Host:
+hz.bdtunnelproxy.xyz[crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"Pulled",
+         "host":"Pulled",
+         "friendly_name":"🇳🇵Nepal|Namaste Sim 🔥",
+         "sausage":"www.ntc.net.np",
+         "payload":"",
+         "query":"normal",
+         "message":"",
+         "method":"ssl",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Pulled",
+         "friendly_name":"🇶🇦Qatar vodafon 30pak",
+         "sausage":"",
+         "payload":"CONNECT www.gamester.qa HTTP\/1.0[ctrl]Host:
+www.gamester.qa[ctrl]Connection: keep-alive[ctrl]Proxy-Connection: keep-alive[ctrl]
+[ctrl]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Pulled",
+         "friendly_name":"🇻🇪Venezuela movister-unlimited",
+         "sausage":"",
+         "payload":"CONNECT http:\/\/static.movistar.com.ve\/ HTTP\/1.1[crlf]Host:
+static.movistar.com.ve[crlf]X-Online-Host: static.movistar.com.ve[crlf]X-Forward-
+Host: static.movistar.com.ve[crlf]Connection: Keep-Alive[crlf]User-Agent: Yes[crlf]
+CONNECT [host_port] HTTP\/1.1[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Pulled",
+         "friendly_name":"🇹🇯Tajikistan tcell✅",
+         "sausage":"",
+         "payload":"GET http:\/\/connectivitycheck.gstatic.com\/
+HTTP\/1.1[crlf]Host: kids.tcell.tj[crlf]Referer: kids.tcell.tj[crlf][crlf]CONNECT
+[host_port] [protocol][crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"Pulled",
+         "host":"Pulled",
+         "friendly_name":"🇹🇯(Tajikistan tcell 2)",
+         "sausage":"cdn-settings.appsflyersdk.com",
+         "payload":"",
+         "query":"normal",
+         "message":"",
+         "method":"ssl",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Pulled",
+         "friendly_name":"🇱🇰 mobitel unlimited ",
+         "sausage":"",
+         "payload":"CONNECT [host_port]@Ott-catchup.revlet.net [protocol]
+[crlf]Host: Ott-catchup.revlet.net[crlf]X-Online-Host: Ott-
+catchup.revlet.net[crlf]X-Forward-Host: Ott-catchup.revlet.net[crlf]Connection:
+Keep-Alive[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Pulled",
+         "friendly_name":"🇱🇰 Sri Lanka airtel unlimited ",
+         "sausage":"",
+         "payload":"CONNECT [host_port]@connectivitycheck.gstatic.com [protocol]
+[crlf]Host: connectivitycheck.gstatic.com[crlf]X-Online-Host:
+connectivitycheck.gstatic.com[crlf]X-Forward-Host:
+connectivitycheck.gstatic.com[crlf]Connection: Keep-Alive[crlf]Referer:
+connectivitycheck.gstatic.com[crlf]CONNECT [host_port] [protocol][crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Pulled",
+         "friendly_name":"🇱🇰 HUTCH UNLIMITED",
+         "sausage":"",
+         "payload":"CONNECT [host_port]@www.careers.jnj.com [protocol][crlf]Host:
+www.careers.jnj.com[crlf]X-Online-Host: www.careers.jnj.com[crlf]X-Forward-Host:
+www.careers.jnj.com[crlf]Connection: Keep-Alive[crlf]CONNECT [host_port] [protocol]
+[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Pulled",
+         "friendly_name":"🇱🇰 zoom bypass ",
+         "sausage":"",
+         "payload":"CONNECT [host_port]@Ott-catchup.revlet.net [protocol]
+[crlf]Host: Ott-catchup.revlet.net[crlf]X-Online-Host: Ott-
+catchup.revlet.net[crlf]X-Forward-Host: Ott-catchup.revlet.net[crlf]Connection:
+Keep-Alive[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"Pulled",
+         "host":"Pulled",
+         "friendly_name":"🇱🇰SRILANKA MOBITEL",
+         "sausage":"m.linkedin.com",
+         "payload":"",
+         "query":"normal",
+         "message":"",
+         "method":"ssl",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Pulled",
+         "friendly_name":"🇧🇷 Brazil claro normal",
+         "sausage":"",
+         "payload":"GET http:\/\/www.claro.com.br HTTP\/1.0[crlf]Host:
+http:\/\/www.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade
+[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Pulled",
+         "friendly_name":"🇿🇦SOUTH AFRICA MTN 500MB",
+         "sausage":"",
+         "payload":"GET h2:\/\/direct.capitecbank.co.za HTTP\/1.1[crlf]Host:
+[technore][crlf]Connection: h2c[crlf]Upgrade: h2[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Pulled",
+         "friendly_name":"🇪🇭Jordan unlimited",
+         "sausage":"",
+         "payload":"GET http:\/\/cont.website HTTP\/1.1[crlf]Host:
+http:\/\/cont.website[crlf]Connection: keep-alive[[crlf]X-Online-Host:
+cont.website[crlf]X-Forwarded-For: cont.website[crlf]Referrer: cont.website[crlf]X-
+Forward-Host: cont.website[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"telco.osn.com",
+         "friendly_name":"🇦🇪 UAE DU UNLIMITED 30 DAY ",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"package code *055*245#",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Moey.gov.jm",
+         "friendly_name":"🇯🇲 JAMAICA jamtel UNLIMITED",
+         "sausage":"",
+         "payload":"GET wss:\/\/Moey.gov.jm\/ HTTP\/1.1[crlf]Host:
+avt.bdtunnelproxy.xyz[crlf]Upgrade: websocket[crlf][crlf",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Pulled",
+         "friendly_name":"🇱🇰 Sri lanka mobitel 0 unlimited ",
+         "sausage":"",
+         "payload":"CONNECT [host_port]@media-exp1.licdn.com [protocol][crlf]Host:
+media-exp1.licdn.com[crlf]X-Online-Host: media-exp1.licdn.com[crlf]X-Forward-Host:
+media-exp1.licdn.com[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]
+[crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+           "allow_cleartext_auth":false,
+           "remember_creds":false
+      },
+      {
+           "port":"Pulled",
+           "host":"Pulled",
+           "friendly_name":"🇲🇲 MY Tell business",
+           "sausage":"mobile.googel.com",
+           "payload":"",
+           "query":"normal",
+           "message":"select my tell server",
+           "method":"ssl",
+           "sslws":"false",
+           "dothost":"",
+           "allow_cleartext_auth":false,
+           "remember_creds":false
+      },
+      {
+         "port":"443",
+         "host":"www.payfort.com",
+         "friendly_name":"KSA YAQOOT TEST",
+         "sausage":"",
+         "payload":"GET wss:\/\/avt.bdtunnelproxy.xyz HTTP\/1.1[crlf]Host:
+avt.bdtunnelproxy.xyz[crlf]Connection: upgrade[crlf]Upgrade: websocket[crlf]
+[crlf]~avt.bdtunnelproxy.xyz",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"true",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"443",
+         "host":"presidency.eg",
+         "friendly_name":"🇪🇬Egypt Orange unlimited 2022",
+         "sausage":"",
+         "payload":"GET wss:\/\/avt.bdtunnelproxy.xyz HTTP\/1.1[crlf]Host:
+avt.bdtunnelproxy.xyz[crlf]Connection: upgrade[crlf]Upgrade: websocket[crlf]
+[crlf]~avt.bdtunnelproxy.xyz",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"true",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Pulled",
+         "friendly_name":"🇵🇸 palestine unlimited",
+         "sausage":"",
+         "payload":"CONNECT http:\/\/[rotate=zoom.us;m.partner.co.il\/]\/
+HTTP\/1.1[crlf]Host: [rotate=zoom.us;m.partner.co.il\/][crlf]Connection: Keep-
+Alive[crlf][crlf]CONNECT [host_port] [protocol][crlf][crlf]",
+         "query":"normal",
+         "message":"",
+           "method":"http",
+           "sslws":"false",
+           "dothost":"",
+           "allow_cleartext_auth":false,
+           "remember_creds":false
+      },
+      {
+         "port":"443",
+         "host":"claro_centroamerica.typeform.com",
+         "friendly_name":"🇸🇻 EL Salvador claro ",
+         "sausage":"",
+         "payload":"GET wss:\/\/api.chivo2.com HTTP\/1.1[crlf]Host:
+avt.bdtunnelproxy.xyz[crlf]Upgrade: websocket[crlf][crlf]~avt.bdtunnelproxy.xyz",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"true",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"autogig.electude.eu",
+         "friendly_name":"🇲🇦 Morocco ofppt",
+         "sausage":"",
+         "payload":"GET ssl:\/\/autogig.electude.eu HTTP\/1.1[crlf]Host:
+hz.bdtunnelproxy.xyz[crlf]Connection: upgrade[crlf]Proxy-Connection: keep-
+alive[crlf]Upgrade: websocket, HTTP\/3.0[crlf]Sec-WebSocket-Extensions:
+superspeed[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"108.138.106.45",
+         "friendly_name":"🇸🇦 ZAIN FREE 03🔥",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"143.204.89.49",
+         "friendly_name":"🇸🇦 ZAIN FREE 04",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"www.zainkids-sa.com",
+         "friendly_name":"🇸🇦 ZAIN FREE 05👍",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"www.zainkids-sa.com",
+         "friendly_name":"🇸🇦 ZAIN FREE 06💞",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"dl.aw.freefiremobile.com",
+         "friendly_name":"🇸🇦 MOBILY 60 SAR NEW",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Pulled",
+         "friendly_name":"🇵🇰 PAKISTAN ZONG WHATSAPP ",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host: www.whatsapp.net[crlf]Upgrade:
+websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"airplane ✈️ mode ",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Pulled",
+         "friendly_name":"🇵🇰 PAKISTAN ZONG FACEBOOK",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host: h.facebook.com[crlf]Upgrade:
+websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"iff no connect ✈️ 2 3 time",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"Pulled",
+         "host":"Pulled",
+         "friendly_name":"🇸🇦KSA ZAIN 3.5 SAR 10-GB",
+         "sausage":"lite.facebook.com",
+         "payload":"",
+         "query":"normal",
+         "message":"",
+         "method":"ssl",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"Pulled",
+         "host":"Pulled",
+         "friendly_name":"🇸🇦KSA Zain Anghami",
+         "sausage":"www.anghami.com",
+         "payload":"",
+         "query":"normal",
+         "message":"",
+         "method":"ssl",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+           "port":"Pulled",
+           "host":"Pulled",
+           "friendly_name":"🇸🇦KSA Zain Nx2",
+           "sausage":"mobile.netflix.com",
+           "payload":"",
+           "query":"normal",
+           "message":"NX2 SEND 959",
+           "method":"ssl",
+           "sslws":"false",
+           "dothost":"",
+           "allow_cleartext_auth":false,
+           "remember_creds":false
+      },
+      {
+           "port":"Pulled",
+           "host":"Pulled",
+           "friendly_name":"🇸🇦 KSA ZAIN TIKTOK PACK",
+           "sausage":"m.tiktok.com",
+           "payload":"",
+           "query":"normal",
+           "message":"",
+           "method":"ssl",
+           "sslws":"false",
+           "dothost":"",
+           "allow_cleartext_auth":false,
+           "remember_creds":false
+      },
+      {
+           "port":"Pulled",
+           "host":"Pulled",
+           "friendly_name":"🇸🇦 KSA ZAIN Y25 & ME40 PACK",
+           "sausage":"www.youtube.com",
+           "payload":"",
+           "query":"normal",
+           "message":"",
+           "method":"ssl",
+           "sslws":"false",
+           "dothost":"",
+           "allow_cleartext_auth":false,
+           "remember_creds":false
+      },
+      {
+         "port":"443",
+         "host":"screensaver.riotgames.com",
+         "friendly_name":"🇸🇦Mobily Games 69 SR",
+         "sausage":"",
+         "payload":"GET wss:\/\/avt.bdtunnelproxy.xyz HTTP\/1.1[crlf]Host:
+avt.bdtunnelproxy.xyz[crlf]Upgrade: WebServer(Cloudflare)[crlf]
+[crlf]~avt.bdtunnelproxy.xyz",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"true",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"443",
+         "host":"screensaver.riotgames.com",
+         "friendly_name":"🇸🇦Mobily Games 69 SR 🔥",
+         "sausage":"",
+         "payload":"GET wss:\/\/avt.bdtunnelproxy.xyz HTTP\/1.1[crlf]Host:
+avt.bdtunnelproxy.xyz[crlf]Upgrade: WebServer(Cloudflare)[crlf]
+[crlf]~avt.bdtunnelproxy.xyz",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"true",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"Pulled",
+         "host":"Pulled",
+         "friendly_name":"🇸🇩 Sudan zain unlimited ",
+         "sausage":"komaharkia.com",
+         "payload":"",
+         "query":"normal",
+         "message":"",
+         "method":"ssl",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"ogp.me",
+         "friendly_name":"🇸🇦KSA Yaqoot Free Internet 01",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"443",
+         "host":"104.20.69.50",
+         "friendly_name":"🇵🇭 | Philippines Globe TM Free",
+         "sausage":"",
+         "payload":"GET wss:\/\/umr.bdtunnelproxy.xyz HTTP\/1.1[crlf]Host:
+umr.bdtunnelproxy.xyz[crlf]Connection: upgrade[crlf]Upgrade: websocket[crlf]
+[crlf]~umr.bdtunnelproxy.xyz",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"true",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Pulled",
+         "friendly_name":"🇱🇾 Libya orange unlimited🍊",
+         "sausage":"",
+         "payload":"GET HTTP\/1.1[crlf]Host: wapshop.gameloft.com[lf]Host:
+www.5g.globe.com.ph[crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Pulled",
+         "friendly_name":"🇸🇦 KSA ZAIN VB3 05#",
+         "sausage":"",
+         "payload":"CONNECT [host_port] [protocol][crlf]Host: skype.com[crlf]X-
+Online-Host: skype.com[crlf]X-Forward-Host: skype.com[crlf]X-Forwarded-For:
+skype.com[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"Pulled",
+         "host":"Pulled",
+         "friendly_name":"🇸🇦 KSA STC TIKTOK ",
+         "sausage":"mobile.tiktok.com",
+         "payload":"",
+         "query":"normal",
+         "message":"TYPE 89026 SEND 900",
+         "method":"ssl",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Pulled",
+         "friendly_name":"🇬🇹Guatemala Pack Q99 JDG",
+         "sausage":"",
+         "payload":"HTTP\/MMSC [lf]Host: www.instagram.com[crlf]Connection: keep-
+alive[lf][lf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+           "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Pulled",
+         "friendly_name":"🇰🇪 Kenya all YouTube ",
+         "sausage":"",
+         "payload":"GET http:\/\/youtube.com HTTP\/1.1\\r\nHost: youtube.com\\r\
+nConnection: keep-alive\\r\nProxy-Connection: keep-alive\\r\nX-Forwarded-For:
+youtube.com\\r\nX-Online-Host: youtube.com\\r\nX-Forward-Host: youtube.com\\r\n\\r\
+n[delay]CONNECT [host_port] [protocol]\\r\n\\r\nGET http:\/\/youtube.com
+HTTP\/1.1\\r\nHost: youtube.com\\r\nConnection: keep-alive\\r\nProxy-Connection:
+keep-alive\\r\nX-Forwarded-For: youtube.com\\r\nX-Online-Host: youtube.com\\r\nX-
+Forward-Host: youtube.com\\r\n\\r\n[delay]CONNECT [host_port] [protocol]\\r\n\\r",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Pulled",
+         "friendly_name":"🇵🇭 GIGA STUDY",
+         "sausage":"",
+         "payload":"CONNECT iytimg.com@[host_port] [protocol][crlf]Host:
+iytimg.com[crlf]X-Online-Host: iytimg.com[crlf]Connection: Keep-Alive[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Pulled",
+         "friendly_name":"🇵🇭 GIGA WORK",
+         "sausage":"",
+         "payload":"CONNECT viber.com@[host_port] [protocol][crlf]Host:
+viber.com[crlf]X-Online-Host: viber.com[crlf]Connection: Keep-Alive[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Pulled",
+         "friendly_name":"🇵🇭 Giga Stories",
+         "sausage":"",
+         "payload":"CONNECT static.muscdn.com@[host_port] [protocol][crlf]Host:
+static.muscdn.com[crlf]X-Online-Host: static.muscdn.com[crlf]Connection: Keep-
+Alive[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Pulled",
+         "friendly_name":"🇻🇳Vietnam mobile unlimited ",
+         "sausage":"",
+         "payload":"DELETE http:\/\/vietnamobile.com.vn HTTP\/1.1[crlf]Host:
+http:\/\/vietnamobile.com.vn[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"dl.aw.freefiremobile.com",
+         "friendly_name":"ATOM GAME 🎮",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"api.paymaya.com",
+         "friendly_name":"🇸🇦KSA MOBILY 39 SAR",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"Pulled",
+         "host":"Pulled",
+           "friendly_name":"🇲🇱 malitel",
+           "sausage":"www.moov-africa.ml",
+           "payload":"",
+           "query":"normal",
+           "message":"",
+           "method":"ssl",
+           "sslws":"false",
+           "dothost":"",
+           "allow_cleartext_auth":false,
+           "remember_creds":false
+      },
+      {
+           "port":"Pulled",
+           "host":"Pulled",
+           "friendly_name":"🇹🇯 Tajikistan Megafon ",
+           "sausage":"media-share-2022.s3.dualstack.eu.eask1-.amazonaws.com",
+           "payload":"",
+           "query":"normal",
+           "message":"",
+           "method":"ssl",
+           "sslws":"false",
+           "dothost":"",
+           "allow_cleartext_auth":false,
+           "remember_creds":false
+      },
+      {
+           "port":"Pulled",
+           "host":"Pulled",
+           "friendly_name":"🇹🇯 Tajikistan gamer pack",
+           "sausage":"253dwww.pubgmobile.com",
+           "payload":"",
+           "query":"normal",
+           "message":"",
+           "method":"ssl",
+           "sslws":"false",
+           "dothost":"",
+           "allow_cleartext_auth":false,
+           "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"108.138.106.45",
+         "friendly_name":"🇸🇦KSA ZAIN ALL PACKAGE 02",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Pulled",
+         "friendly_name":"🇲🇱 ORANGE MALI",
+         "sausage":"",
+         "payload":"HTTP\/ 1.1 200[crlf]ServerToken
+[lf]Host:m.orangemali.com[crlf]Payload Created q Tricks[lf]Connection: Keep-
+Alive[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Pulled",
+         "friendly_name":"🇺🇬 UGANDA Airtel ",
+         "sausage":"",
+         "payload":"HTTP\/1.0[crlf]Host:
+http:\/\/www.splashlearn.com[crlf]Connection: keep-alive[crlf]X-Online-Host:
+www.splashlearn.com[crlf]X-Forwarded-For: www.splashlearn.com[crlf]Referrer:
+www.splashlearn.com[crlf]X-Forward-Host: www.splashlearn.com[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"winners.wowlotto.ng",
+         "friendly_name":"🇳🇬 Nigeria mtn unlimited",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host: zh.bdtunnelproxy.xyz[crlf]Upgrade:
+websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"api.paymaya.com",
+         "friendly_name":"🇸🇦KSA ZAIN ALL PACKAGE 03",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"104.16.51.111",
+         "friendly_name":"🇸🇦KSA ZAIN ALL PACKAGE 04",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host: umr.bdtunnelproxy.xyz[crlf]X-
+Online-Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade:
+websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"telco.osn.com",
+         "friendly_name":"🇸🇦KSA ZAIN ALL PACKAGE 05",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"443",
+         "host":"support-tt.digicelgroup.com",
+         "friendly_name":"🇹🇹TRINIDAD Digicel unlimited data",
+         "sausage":"",
+         "payload":"GET wss:\/\/avt.bdtunnelproxy.xyz HTTP\/1.1[crlf]Host:
+avt.bdtunnelproxy.xyz[crlf]Upgrade: WebServer(Cloudflare)[crlf]
+[crlf]~avt.bdtunnelproxy.xyz",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"true",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"443",
+         "host":"support-tt.digicelgroup.com",
+         "friendly_name":"🇹🇹TRINIDAD Digicel unlimited 02",
+         "sausage":"",
+         "payload":"GET wss:\/\/avt.bdtunnelproxy.xyz HTTP\/1.1[crlf]Host:
+avt.bdtunnelproxy.xyz[crlf]Upgrade: WebServer(Cloudflare)[crlf]
+[crlf]~avt.bdtunnelproxy.xyz",
+         "query":"normal",
+         "message":"",
+           "method":"http",
+           "sslws":"true",
+           "dothost":"",
+           "allow_cleartext_auth":false,
+           "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"testprocessorpay.com",
+         "friendly_name":"🇬🇹Guatemala free 01",
+         "sausage":"",
+         "payload":"GET wss:\/\/d29sagimgw5swt.cloudfront.net HTTP\/1.1[crlf]Host:
+testprocessorpay.com[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"MahouGt 🇬🇹",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"testprocessorpay.com",
+         "friendly_name":"🇬🇹Guatemala free 02",
+         "sausage":"",
+         "payload":"GET wss:\/\/d2phkvtrrlo8iq.cloudfront.net HTTP\/1.1[crlf]Host:
+testprocessorpay.com[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"community-stage.jawwy.sa",
+         "friendly_name":"🇸🇦KSA JAWWY FREE 01",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"dyrj21pmsthu7.cloudfront.net",
+         "friendly_name":"🇸🇦KSA JAWWY FREE 02",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"processorpay.com",
+         "friendly_name":"🇭🇳Honduras claro free 01",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d29sagimgw5swt.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade:
+websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"processorpay.com",
+         "friendly_name":"🇭🇳Honduras claro free 02",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d2phkvtrrlo8iq.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade:
+websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"testprocessorpay.com",
+         "friendly_name":"🇳🇮 Claro nicaragua 01",
+         "sausage":"",
+         "payload":"GET wss:\/\/d29sagimgw5swt.cloudfront.net HTTP\/1.1[crlf]Host:
+testprocessorpay.com[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"testprocessorpay.com",
+         "friendly_name":"🇳🇮Claro nicaragua 02",
+         "sausage":"",
+         "payload":"GET wss:\/\/d2phkvtrrlo8iq.cloudfront.net HTTP\/1.1[crlf]Host:
+testprocessorpay.com[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"processorpay.com",
+         "friendly_name":"🇭🇳Honduras tigo aws 1 ",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d29sagimgw5swt.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade:
+websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"processorpay.com",
+         "friendly_name":"🇭🇳Honduras tigo aws-2",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d2phkvtrrlo8iq.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade:
+websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"smart.tigo.com.sv",
+         "friendly_name":"🇳🇮El Salvador unlimited 01",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d29sagimgw5swt.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade:
+websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"smart.tigo.com.sv",
+         "friendly_name":"🇳🇮 El Salvador unlimited 02",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d2phkvtrrlo8iq.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade:
+websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"13.33.94.78",
+         "friendly_name":"🇧🇷 Brazil vivo gratuitamente 02",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"13.227.126.65",
+         "friendly_name":"🇧🇷 Brazil vivo gratuitamente 02",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"443",
+         "host":"api.rudderlabs.com",
+         "friendly_name":"🇮🇶 IRAQ OODI FREE 01",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]
+[crlf]~d29sagimgw5swt.cloudfront.net",
+         "query":"normal",
+           "message":"",
+           "method":"http",
+           "sslws":"true",
+           "dothost":"",
+           "allow_cleartext_auth":false,
+           "remember_creds":false
+      },
+      {
+         "port":"443",
+         "host":"api.rudderlabs.com",
+         "friendly_name":"🇮🇶IRAQ OODI FREE 02",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]
+[crlf]~d3e3fhf0aqc6sk.cloudfront.net",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"true",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Cdn.medallia.com",
+         "friendly_name":" 🇭🇳TIGO HN Y CLARO MULTI 01",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Cdn.medallia.com",
+         "friendly_name":" 🇭🇳TIGO HN Y CLARO MULTI 02",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"stateofpayments.payfort.com",
+         "friendly_name":"🇪🇬 EGYPT Vodafone 01",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"stateofpayments.payfort.com",
+         "friendly_name":"🇪🇬 EGYPT Vodafone 02",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"cf-st.sc-cdn.net",
+         "friendly_name":"🇹🇲 TURKMENISTAN FREE NET 01",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"cf-st.sc-cdn.net",
+         "friendly_name":"🇹🇲 TURKMENISTAN FREE NET 02",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+           "remember_creds":false
+      },
+      {
+         "port":"443",
+         "host":"api.paymaya.com",
+         "friendly_name":"🇵🇭 Ph Smart TNT FREE 01",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]
+[crlf]~d29sagimgw5swt.cloudfront.net",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"true",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"443",
+         "host":"api.paymaya.com",
+         "friendly_name":"🇵🇭 Ph Smart TNT FREE 02",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]
+[crlf]~d3e3fhf0aqc6sk.cloudfront.net",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"true",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"wfl.localizame.claro.com.gt",
+         "friendly_name":"🇬🇹 claro Guatemala new 01",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"wfl.localizame.claro.com.gt",
+         "friendly_name":"🇬🇹 claro Guatemala new 02",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"www.gamester.qa",
+         "friendly_name":"🇶🇦 QATAR OOREDOO 6O-FLEXI 01",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"www.gamester.qa",
+         "friendly_name":"🇶🇦 QATAR OOREDOO 6O-FLEXI 02",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"cf-st.sc-cdn.net",
+         "friendly_name":"🇴🇲Oman tell snap chat pack 01",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"cf-st.sc-cdn.net",
+         "friendly_name":"🇴🇲Oman tell Snapchat pack 02",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"smart.tigo.com.sv",
+         "friendly_name":"🇳🇮 El Salvador 01",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"smart.tigo.com.sv",
+         "friendly_name":"🇳🇮 El Salvador 02",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"104.26.15.41",
+         "friendly_name":"🇬🇭 GHANA MTN 500 MB",
+         "sausage":"",
+         "payload":"GET wss:\/\/moh.gov.gh\/ HTTP\/1.1[crlf]Host:
+hz.bdtunnelproxy.xyz[crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"TEMPERATURE PRINCE",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+           "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"104.16.153.71",
+         "friendly_name":"🇬🇭 GHANA 20 GB",
+         "sausage":"",
+         "payload":"GET wss:\/\/gij.edu.gh HTTP\/1.1[crlf]Host:
+ppp.bdtunnelproxy.xyz[crlf]Connection: upgrade[crlf]Upgrade: websocket[crlf]
+[crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"104.22.65.123",
+         "friendly_name":"🇮🇶 Iraq Asiacel",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host: hz.bdtunnelproxy.xyz[crlf]Upgrade:
+websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Pulled",
+         "friendly_name":"🇩🇴 DOMINICAN viva unlimited",
+         "sausage":"",
+         "payload":" GET https:\/\/internetmovil.viva.com.do HTTP\/1.1[cr]Host:
+internetmovil.viva.com.do[cr]Connection:keep-alive[cr]Proxy-Connection: keep-
+alive[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Pulled",
+         "friendly_name":"🇩🇴CLARO ZERO BALANCE",
+         "sausage":"",
+         "payload":"GET http:\/\/coronavirusrd.gob.do HTTP\/1.1[crlf]Host:
+coronavirusrd.gob.do[crlf]Connection: keep-alive[crlf]Proxy-Connection: keep-
+alive[crlf]X-Forwarded-For: coronavirusrd.gob.do[crlf]X-Online-Host:
+coronavirusrd.gob.do[crlf]X-Forward-Host: coronavirusrd.gob.do[crlf][crlf]
+[delay]CONNECT [host_port] HTTP\/1.1[crlf][crlf]",
+           "query":"normal",
+           "message":"",
+           "method":"http",
+           "sslws":"false",
+           "dothost":"",
+           "allow_cleartext_auth":false,
+           "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Pulled",
+         "friendly_name":"🇩🇴CLARO REPÚBLIC DOMINICANA ",
+         "sausage":"",
+         "payload":"GET http:\/\/coronavirusrd.gob.do\/ HTTP\/1.1[crlf]Host:
+coronavirusrd.gob.do[crlf]X-Forwarded-For: coronavirusrd.gob.do[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Pulled",
+         "friendly_name":"🇩🇴DOMINICAN REPUBLIC CLARO",
+         "sausage":"",
+         "payload":"GET http:\/\/coronavirusrd.gob.do\/ HTTP\/1.1[crlf]Host:
+coronavirusrd.gob.do[crlf]X-Forwarded-For: coronavirusrd.gob.do[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Pulled",
+         "friendly_name":"🇩🇴DOMINICAN REPUBLIC CLARO-RD",
+         "sausage":"",
+         "payload":"GET http:\/\/paquetesyrecargas.claro.com.do\/odatos?
+user=PREPAGO HTTP\/1.1[crlf]Host: paquetesyrecargas.claro.com.do[lf][lf]GET \/
+HTTP\/1.1[crlf]Host: https:\/\/youtube.com\/c\/BrayanGtt[crlf]Upgrade:
+websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"443",
+         "host":"itpc.gov.iq",
+         "friendly_name":"🇮🇶 Iraq Earthnk 💯",
+         "sausage":"",
+         "payload":"GET wss:\/\/hz.bdtunnelproxy.xyz HTTP\/1.1[crlf]Host:
+hz.bdtunnelproxy.xyz[crlf]Upgrade: WebServer(Cloudflare)[crlf]
+[crlf]~hz.bdtunnelproxy.xyz",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"true",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"443",
+         "host":"104.22.40.214",
+         "friendly_name":"🇮🇶 Iraq Asiacell 💯",
+         "sausage":"",
+         "payload":"GET wss:\/\/hz.bdtunnelproxy.xyz HTTP\/1.1[crlf]Host:
+hz.bdtunnelproxy.xyz[crlf]Upgrade: WebServer(Cloudflare)[crlf]
+[crlf]~hz.bdtunnelproxy.xyz",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"true",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"443",
+         "host":"support-digicel-tt.zendesk.com",
+         "friendly_name":"🇹🇹TRINIDAD DIGICEL UNLIMITED 💯",
+         "sausage":"",
+         "payload":"GET wss:\/\/zh.bdtunnelproxy.xyz HTTP\/1.1[crlf]Host:
+zh.bdtunnelproxy.xyz[crlf]Upgrade: WebServer(Cloudflare)[crlf]
+[crlf]~zh.bdtunnelproxy.xyz",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"true",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"443",
+         "host":"support.canvas.snapchat.com",
+         "friendly_name":"🇸🇦KSA MOBILY 60 RIYAL",
+         "sausage":"",
+         "payload":"GET ssl:\/\/support.canvas.snapchat.com\/
+HTTP\/1.1[crlf]Host:ppp.bdtunnelproxy.xyz [crlf]Connection: upgrade[crlf]Proxy-
+Connection: keep-alive[crlf]Upgrade: websocket, HTTP\/3.0[crlf]Sec-WebSocket-
+Extensions: superspeed[crlf][crlf]~support.canvas.snapchat.com",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"true",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+           "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"Pulled",
+         "friendly_name":"🇯🇵 japan free",
+         "sausage":"",
+         "payload":"CONNECT [host_port]@www.kw.zain.com [protocol][crlf][crlf]POST
+http:\/\/www.kw.zain.com [protocol][crlf]Host: www.kw.zain.com[crlf]X-Online-Host:
+www.kw.zain.com[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"www.readingiq.com",
+         "friendly_name":"🇹🇿 Tanzania Airtel Free 01",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"www.readingiq.com",
+         "friendly_name":"🇹🇿 Tanzania Airtel Free 02",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"443",
+         "host":"direct.asda.com",
+         "friendly_name":"🇵🇸 Palestine 💯",
+         "sausage":"",
+         "payload":"GET wss:\/\/zh.bdtunnelproxy.xyz HTTP\/1.1[crlf]Host:
+ppp.bdtunnelproxy.xyz[crlf]Upgrade: WebServer(Cloudflare)[crlf]
+[crlf]~zh.bdtunnelproxy.xyz",
+         "query":"normal",
+           "message":"",
+           "method":"http",
+           "sslws":"true",
+           "dothost":"",
+           "allow_cleartext_auth":false,
+           "remember_creds":false
+      },
+      {
+         "port":"443",
+         "host":"care.pressreader.com",
+         "friendly_name":"🇹🇹TRINIDAD DIGICEL\/Bmobile",
+         "sausage":"",
+         "payload":"GET wss:\/\/zh.bdtunnelproxy.xyz HTTP\/1.1[crlf]Host:
+zh.bdtunnelproxy.xyz[crlf]Upgrade: WebServer(Cloudflare)[crlf]
+[crlf]~zh.bdtunnelproxy.xyz",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"true",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"443",
+         "host":"www.argentina.gob.ar",
+         "friendly_name":"🇦🇷 Argentina personal",
+         "sausage":"",
+         "payload":"GET wss:\/\/www.argentina.gob.ar HTTP\/1.1[crlf]Host:
+zh.bdtunnelproxy.xyz[crlf]Upgrade: WebServer(Cloudflare)[crlf]
+[crlf]~zh.bdtunnelproxy.xyz",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"true",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"testprocessorpay.com",
+         "friendly_name":"🇨🇷 COSTA RICA CLARO 01",
+         "sausage":"",
+         "payload":"GET wss:\/\/d2phkvtrrlo8iq.cloudfront.net HTTP\/1.1[crlf]Host:
+testprocessorpay.com[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"testprocessorpay.com",
+         "friendly_name":"🇨🇷 COSTA RICA CLARO 02",
+         "sausage":"",
+         "payload":"GET wss:\/\/d29sagimgw5swt.cloudfront.net HTTP\/1.1[crlf]Host:
+testprocessorpay.com[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"Pulled",
+         "host":"Pulled",
+         "friendly_name":"🇲🇲 MYANMAR OREEDO FREE",
+         "sausage":"mpu-ecommerce.com",
+         "payload":"",
+         "query":"normal",
+         "message":"",
+         "method":"ssl",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"Pulled",
+         "host":"Pulled",
+         "friendly_name":"🇵🇾 Paraguay gamer pack ",
+         "sausage":"play.mobilelegends.com",
+         "payload":"",
+         "query":"normal",
+         "message":"",
+         "method":"ssl",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"13.33.94.78",
+         "friendly_name":"🇧🇷 Brazil vivo gratuitamente 🆕 01",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"80",
+         "host":"13.227.126.65",
+         "friendly_name":"🇧🇷 Brazil vivo gratuitamente 04",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"443",
+         "host":"13.32.87.241",
+         "friendly_name":"🇮🇹MEXICO Telcel 01",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]
+[crlf]~d29sagimgw5swt.cloudfront.net",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"true",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"443",
+         "host":"13.32.87.241",
+         "friendly_name":"🇮🇹MEXICO Telcel 02",
+         "sausage":"",
+         "payload":"GET \/ HTTP\/1.1[crlf]Host:
+d2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:
+Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]
+[crlf]~d3e3fhf0aqc6sk.cloudfront.net",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"true",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"Pulled",
+         "host":"Pulled",
+         "friendly_name":"🇹🇿 | TANZANIA VODACOM \/HALOTEL",
+         "sausage":"Vodacom.co.tz",
+         "payload":"",
+         "query":"normal",
+         "message":"",
+         "method":"ssl",
+         "sslws":"false",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      },
+      {
+         "port":"443",
+         "host":"zendesk1.snapchat.com",
+         "friendly_name":"🇸🇦.KSA ZAIN 60 SAR",
+         "sausage":"",
+         "payload":"GET wss:\/\/avt.bdtunnelproxy.xyz HTTP\/1.1[crlf]Host:
+avt.bdtunnelproxy.xyz[crlf]Upgrade: WebServer(Cloudflare)[crlf]
+[crlf]~avt.bdtunnelproxy.xyz",
+         "query":"normal",
+         "message":"",
+         "method":"http",
+         "sslws":"true",
+         "dothost":"",
+         "allow_cleartext_auth":false,
+         "remember_creds":false
+      }
+   ],
+}
+
