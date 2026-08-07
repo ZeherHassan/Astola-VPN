@@ -20,20 +20,19 @@ jobs:
       with:
         java-version: '17'
         distribution: 'temurin'
+        cache: 'gradle'
 
     - name: Setup Android SDK
       uses: android-actions/setup-android@v3
-
-    - name: Setup Gradle 8.4
-      uses: gradle/actions/setup-gradle@v4
       with:
-        gradle-version: '8.4'
+        packages: 'platform-tools platforms;android-34 build-tools;34.0.0'
+        accept-android-sdk-licenses: true
 
     - name: Make gradlew executable
       run: chmod +x gradlew
 
     - name: Build Client App & Admin App Debug APKs
-      run: ./gradlew :app:assembleDebug :admin:assembleDebug --stacktrace
+      run: ./gradlew assembleDebug --stacktrace
 
     - name: Upload Astola VPN Client APK
       uses: actions/upload-artifact@v4
