@@ -1,0 +1,1514 @@
+[
+  {
+    "id": "whatsapp",
+    "friendlyName": "WhatsApp",
+    "method": "ssl",
+    "payload": "",
+    "sniHost": "www.whatsapp.com",
+    "message": "WhatsApp Package",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "ksa_i_zain_y25_pack",
+    "friendlyName": "🇸🇦 KSA I Zain Y25 Pack",
+    "method": "ssl",
+    "payload": "",
+    "sniHost": "m.youtube.com",
+    "message": "YouTube",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "a___wi_fi_and_data",
+    "friendlyName": "A - Wi-Fi and Data",
+    "method": "ssl",
+    "payload": "",
+    "sniHost": "m.facebook.com",
+    "message": "Social",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "tiktok_package",
+    "friendlyName": "🌍 Tiktok package",
+    "method": "ssl",
+    "payload": "",
+    "sniHost": "www.tiktok.com",
+    "message": "Tiktok",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "whatsapp_package",
+    "friendlyName": "🌍 Whatsapp package",
+    "method": "ssl",
+    "payload": "",
+    "sniHost": "www.whatsapp.com",
+    "message": "social",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "ksa_i_zain_60_rayials",
+    "friendlyName": "🇸🇦 KSA I Zain 60 Rayials",
+    "method": "ssl",
+    "payload": "",
+    "sniHost": "www.snapchat.com",
+    "message": "312 send 959",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "messenger_package",
+    "friendlyName": "🌍 Messenger package",
+    "method": "ssl",
+    "payload": "",
+    "sniHost": "www.messenger.com",
+    "message": "Social",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "ksa___zain_vb3_1",
+    "friendlyName": "🇸🇦 KSA | Zain VB3 1",
+    "method": "ssl",
+    "payload": "",
+    "sniHost": "www.line.me",
+    "message": "Good working",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "ksa_i_zain_vb3_2",
+    "friendlyName": "🇸🇦 KSA I Zain VB3 2",
+    "method": "ssl",
+    "payload": "",
+    "sniHost": "www.bbm.com",
+    "message": "Social",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "ksa_i_zain_vb3__3",
+    "friendlyName": "🇸🇦 KSA I Zain VB3 #3",
+    "method": "ssl",
+    "payload": "",
+    "sniHost": "www.ovip.icq.com",
+    "message": "good working ",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "ksa___zain_vb3___4",
+    "friendlyName": "🇸🇦 KSA | Zain VB3 | 4",
+    "method": "ssl",
+    "payload": "",
+    "sniHost": "cs-ocr.clova.line.me",
+    "message": "good working",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "ksa_i_zain_sn3_package",
+    "friendlyName": "🇸🇦 KSA I Zain SN3 Package",
+    "method": "ssl",
+    "payload": "",
+    "sniHost": "www.snapchat.com",
+    "message": "SN3 send 959",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "ksa_i_zain___sm2_sm3_package",
+    "friendlyName": "🇸🇦 KSA I Zain   SM2/SM3 Package",
+    "method": "ssl",
+    "payload": "",
+    "sniHost": "www.twitter.com",
+    "message": "Social",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "ksa_i_zain_facebook_pack",
+    "friendlyName": "🇸🇦 KSA I Zain Facebook pack",
+    "method": "ssl",
+    "payload": "",
+    "sniHost": "m.facebook.com",
+    "message": "Social",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "ksa_i_zain_rwp_all_package",
+    "friendlyName": "🇸🇦 KSA I Zain RWP All Package",
+    "method": "http",
+    "payload": "www.google.com",
+    "sniHost": "",
+    "message": "Social",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "ksa___stc_free",
+    "friendlyName": "🇸🇦 KSA | STC FREE",
+    "method": "direct",
+    "payload": "",
+    "sniHost": "",
+    "message": "Need ip",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "ksa_i_mobily_free_x",
+    "friendlyName": "🇸🇦 KSA I Mobily Free X",
+    "method": "http",
+    "payload": "CONNECT [host_port]@outcome-ssp.supersonicads.com [protocol]\n[crlf]Host: outcome-ssp.supersonicads.com[crlf]X-Online-Host: outcome-\nssp.supersonicads.com[crlf]X-Forward-Host: outcome-ssp.supersonicads.com[crlf]X-\n\fForwarded-For: outcome-ssp.supersonicads.com[crlf]Connection: Keep-Alive[crlf]User-\nAgent: [ua][crlf][crlf]",
+    "sniHost": "",
+    "message": "Unblock Area",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "omantel_snapchat_pack",
+    "friendlyName": "🇴🇲OMANTEL SNAPCHAT PACK",
+    "method": "ssl",
+    "payload": "",
+    "sniHost": "chat-internal-snapchat.com",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "ksa_stc_jawwy_tv__1",
+    "friendlyName": "🇸🇦KSA STC Jawwy TV (1)",
+    "method": "http",
+    "payload": "GET dl.jawwy.tv@[host_port] [protocol][crlf]Host:\ndl.jawwy.tv[crlf]X-Online-Host: dl.jawwy.tv[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "ksa_stc_jawwy_tv__2",
+    "friendlyName": "🇸🇦KSA STC Jawwy TV (2)",
+    "method": "http",
+    "payload": "CONNECT [host_port] [protocol][crlf]Host: dl.jawwy.tv[crlf]\n[crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "ooredoo_free",
+    "friendlyName": "Ooredoo Free",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Connection:\nupgrade[crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "etisalat_social_data",
+    "friendlyName": "🇦🇪 Etisalat Social Data",
+    "method": "http",
+    "payload": "CONNECT [host_port] [protocol][crlf]Host:\nlite.facebook.com[crlf]X-Online-Host: lite.facebook.com[crlf]X-Forwarded-For:\nlite.facebook.com[crlf]Connection: Keep-Alive[crlf][crlf]",
+    "sniHost": "",
+    "message": "UAE Social Pack Working",
+    "countryFlag": "🇦🇪"
+  },
+  {
+    "id": "maldives_dhiraagu_free",
+    "friendlyName": "🇲🇻 Maldives Dhiraagu Free",
+    "method": "http",
+    "payload": "POST http://dhiraagu.com.mv/ HTTP/1.1[crlf]Host:\ndhiraagu.com.mv[crlf]X-Online-Host: dhiraagu.com.mv[crlf][crlf]CONNECT [host_port]\n[protocol][crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇲🇻"
+  },
+  {
+    "id": "pakistan_zong_whatsapp_pack",
+    "friendlyName": "🇵🇰 Pakistan Zong WhatsApp pack",
+    "method": "http",
+    "payload": "POST http://www.whatsapp.com HTTP/1.0[crlf]Host:\nhttp://www.whatsapp.com[crlf]Connection: keep-alive[crlf]X-Online-Host:\nhttp://www.whatsapp.com[crlf]X-Forward-Host: http://www.whatsapp.com[crlf]\n[crlf]",
+    "sniHost": "",
+    "message": "iff no connect flight mode ✈️",
+    "countryFlag": "🇵🇰"
+  },
+  {
+    "id": "ajk_scom_whatsapp_pack",
+    "friendlyName": "🇵🇰AJK SCOM WHATSAPP PACK",
+    "method": "http",
+    "payload": "POST http://www.whatsapp.com HTTP/1.0[crlf]Host:\nhttp://www.whatsapp.com[crlf]Connection: keep-alive[crlf]X-Online-Host:\nhttp://www.whatsapp.com[crlf]X-Forward-Host: http://www.whatsapp.com[crlf]\n[crlf]",
+    "sniHost": "",
+    "message": "azad Kashmir scom",
+    "countryFlag": "🇵🇰"
+  },
+  {
+    "id": "pakistan_ufone_facebook",
+    "friendlyName": "🇵🇰 Pakistan ufone Facebook",
+    "method": "http",
+    "payload": "TRACE / HTTP/1.1[crlf]Host: www.facebook.com[crlf]Upgrade:\nwebsocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇵🇰"
+  },
+  {
+    "id": "pakistan_ufone_facebook_26",
+    "friendlyName": "🇵🇰 Pakistan ufone Facebook",
+    "method": "ssl",
+    "payload": "",
+    "sniHost": "m.facebook.com",
+    "message": "",
+    "countryFlag": "🇵🇰"
+  },
+  {
+    "id": "pakistan_ufone_free_1",
+    "friendlyName": "🇵🇰 PAKISTAN UFONE FREE 1",
+    "method": "http",
+    "payload": "CONNECT [host_port] HTTP/1.0[crlf]Host:\nufonepk.portal.ncn.mobi.com[crlf][crlf]",
+    "sniHost": "",
+    "message": "🔥🔥Zeher Hassan 🔥🔥",
+    "countryFlag": "🇵🇰"
+  },
+  {
+    "id": "we_eg___x_plus_x_package",
+    "friendlyName": "🇪🇬WE EG [ x plus x package] ",
+    "method": "ssl",
+    "payload": "",
+    "sniHost": "0.facebook.com",
+    "message": "EGYPT WORKING",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "zain_free_02",
+    "friendlyName": "🇸🇦 ZAIN FREE 02 ",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "zain_free_01",
+    "friendlyName": "🇸🇦 ZAIN FREE 01",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "ksa_zain_all_package_01",
+    "friendlyName": "🇸🇦KSA ZAIN ALL PACKAGE 01",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "ZAIN ALL PACKAGE WORKING ",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "pakistan_ufone_free_2",
+    "friendlyName": "🇵🇰 PAKISTAN UFONE FREE 2",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nufonepk.filter.ncnd.mobi/nc[crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "ALI BHAI",
+    "countryFlag": "🇵🇰"
+  },
+  {
+    "id": "pakistan_ufone_free",
+    "friendlyName": "🇵🇰 PAKISTAN UFONE FREE",
+    "method": "ssl",
+    "payload": "",
+    "sniHost": "CONNECT [host_port] HTTP/1.0[crlf]Host:\nhttp://ufonepk.portal.ncn.mobi.com[crlf][crlf]",
+    "message": "🔥BoLo TricKs🔥",
+    "countryFlag": "🇵🇰"
+  },
+  {
+    "id": "all_world_free_test",
+    "friendlyName": "🌍🌐ALL WORLD FREE TEST",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "free_sg_aws",
+    "friendlyName": "🔥FREE SG aws ✅✅",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "pubg___free_fire_pack",
+    "friendlyName": "👨‍🚒PUBG & FREE FIRE PACK ",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "lvoire_unlimited",
+    "friendlyName": "🇨🇮 lvoire unlimited",
+    "method": "ssl",
+    "payload": "",
+    "sniHost": "auth.mtn.ci",
+    "message": "shopma",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "lebara",
+    "friendlyName": "🇸🇦 lebara ",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd2f5h5wbtohlsm.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "guinea_mtn_free",
+    "friendlyName": "🇬🇳 | Guinea MTN Free",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]X-Online-Host: [host]\n[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]\n[crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "egypt_vodafon",
+    "friendlyName": "🇪🇬Egypt vodafon",
+    "method": "http",
+    "payload": "GET wss://Www.presidency.eg HTTP/1.1[crlf]Host:\n[crlf]Connection: upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "morocco_inwi",
+    "friendlyName": "🇲🇦 Morocco INWI ",
+    "method": "ssl",
+    "payload": "support.canvas.snapchat.com",
+    "sniHost": "support.canvas.snapchat.com",
+    "message": "",
+    "countryFlag": "🇲🇦"
+  },
+  {
+    "id": "sdn_zain_social_tiktok",
+    "friendlyName": "🇸🇩SDN ZAIN social TikTok ",
+    "method": "http",
+    "payload": "PROPFIND http://www.waze.com HTTP/2[crlf]Host:\nhttp://www.waze.com[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "uae_du_data",
+    "friendlyName": "🇦🇪 UAE|Du Data 🔥",
+    "method": "http",
+    "payload": "PUT http://10.164.208.4 HTTP/1.1[crlf]Host:\nhttp://10.164.208.4[crlf]X-Online-Host: 10.164.208.4[crlf]User-Agent: [ua]\n[crlf]Connection: Close[crlf]Content-Length: 100000000[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇦🇪"
+  },
+  {
+    "id": "uae_du_pack",
+    "friendlyName": "🇦🇪 UAE|DU PACK",
+    "method": "http",
+    "payload": "CONNECT [host_port] [protocol][crlf]Host: www.bbm.com[crlf]X-\nOnline-Host: www.bbm.com[crlf]Connection: Keep-Alive[crlf][crlf]m",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇦🇪"
+  },
+  {
+    "id": "maroc_telecom_100_ip",
+    "friendlyName": "🇲🇦 maroc telecom 100 ip",
+    "method": "http",
+    "payload": "GET wss://hz.bdtunnelproxy.xyz HTTP/1.1[crlf]Host:\nhz.bdtunnelproxy.xyz[crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇲🇦"
+  },
+  {
+    "id": "nepal_namaste_sim",
+    "friendlyName": "🇳🇵Nepal|Namaste Sim 🔥",
+    "method": "ssl",
+    "payload": "",
+    "sniHost": "www.ntc.net.np",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "qatar_vodafon_30pak",
+    "friendlyName": "🇶🇦Qatar vodafon 30pak",
+    "method": "http",
+    "payload": "CONNECT www.gamester.qa HTTP/1.0[ctrl]Host:\nwww.gamester.qa[ctrl]Connection: keep-alive[ctrl]Proxy-Connection: keep-alive[ctrl]\n[ctrl]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "venezuela_movister_unlimited",
+    "friendlyName": "🇻🇪Venezuela movister-unlimited",
+    "method": "http",
+    "payload": "CONNECT http://static.movistar.com.ve/ HTTP/1.1[crlf]Host:\nstatic.movistar.com.ve[crlf]X-Online-Host: static.movistar.com.ve[crlf]X-Forward-\nHost: static.movistar.com.ve[crlf]Connection: Keep-Alive[crlf]User-Agent: Yes[crlf]\nCONNECT [host_port] HTTP/1.1[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "tajikistan_tcell",
+    "friendlyName": "🇹🇯Tajikistan tcell✅",
+    "method": "http",
+    "payload": "GET http://connectivitycheck.gstatic.com/\nHTTP/1.1[crlf]Host: kids.tcell.tj[crlf]Referer: kids.tcell.tj[crlf][crlf]CONNECT\n[host_port] [protocol][crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "tajikistan_tcell_2",
+    "friendlyName": "🇹🇯(Tajikistan tcell 2)",
+    "method": "ssl",
+    "payload": "",
+    "sniHost": "cdn-settings.appsflyersdk.com",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "mobitel_unlimited",
+    "friendlyName": "🇱🇰 mobitel unlimited ",
+    "method": "http",
+    "payload": "CONNECT [host_port]@Ott-catchup.revlet.net [protocol]\n[crlf]Host: Ott-catchup.revlet.net[crlf]X-Online-Host: Ott-\ncatchup.revlet.net[crlf]X-Forward-Host: Ott-catchup.revlet.net[crlf]Connection:\nKeep-Alive[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "sri_lanka_airtel_unlimited",
+    "friendlyName": "🇱🇰 Sri Lanka airtel unlimited ",
+    "method": "http",
+    "payload": "CONNECT [host_port]@connectivitycheck.gstatic.com [protocol]\n[crlf]Host: connectivitycheck.gstatic.com[crlf]X-Online-Host:\nconnectivitycheck.gstatic.com[crlf]X-Forward-Host:\nconnectivitycheck.gstatic.com[crlf]Connection: Keep-Alive[crlf]Referer:\nconnectivitycheck.gstatic.com[crlf]CONNECT [host_port] [protocol][crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇮🇳"
+  },
+  {
+    "id": "hutch_unlimited",
+    "friendlyName": "🇱🇰 HUTCH UNLIMITED",
+    "method": "http",
+    "payload": "CONNECT [host_port]@www.careers.jnj.com [protocol][crlf]Host:\nwww.careers.jnj.com[crlf]X-Online-Host: www.careers.jnj.com[crlf]X-Forward-Host:\nwww.careers.jnj.com[crlf]Connection: Keep-Alive[crlf]CONNECT [host_port] [protocol]\n[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "zoom_bypass",
+    "friendlyName": "🇱🇰 zoom bypass ",
+    "method": "http",
+    "payload": "CONNECT [host_port]@Ott-catchup.revlet.net [protocol]\n\f[crlf]Host: Ott-catchup.revlet.net[crlf]X-Online-Host: Ott-\ncatchup.revlet.net[crlf]X-Forward-Host: Ott-catchup.revlet.net[crlf]Connection:\nKeep-Alive[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "srilanka_mobitel",
+    "friendlyName": "🇱🇰SRILANKA MOBITEL",
+    "method": "ssl",
+    "payload": "",
+    "sniHost": "m.linkedin.com",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "brazil_claro_normal",
+    "friendlyName": "🇧🇷 Brazil claro normal",
+    "method": "http",
+    "payload": "GET http://www.claro.com.br HTTP/1.0[crlf]Host:\nhttp://www.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade\n[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "south_africa_mtn_500mb",
+    "friendlyName": "🇿🇦SOUTH AFRICA MTN 500MB",
+    "method": "http",
+    "payload": "GET h2://direct.capitecbank.co.za HTTP/1.1[crlf]Host:\n[technore][crlf]Connection: h2c[crlf]Upgrade: h2[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "jordan_unlimited",
+    "friendlyName": "🇪🇭Jordan unlimited",
+    "method": "http",
+    "payload": "GET http://cont.website HTTP/1.1[crlf]Host:\nhttp://cont.website[crlf]Connection: keep-alive[[crlf]X-Online-Host:\ncont.website[crlf]X-Forwarded-For: cont.website[crlf]Referrer: cont.website[crlf]X-\nForward-Host: cont.website[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "uae_du_unlimited_30_day",
+    "friendlyName": "🇦🇪 UAE DU UNLIMITED 30 DAY ",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "package code *055*245#",
+    "countryFlag": "🇦🇪"
+  },
+  {
+    "id": "jamaica_jamtel_unlimited",
+    "friendlyName": "🇯🇲 JAMAICA jamtel UNLIMITED",
+    "method": "http",
+    "payload": "GET wss://Moey.gov.jm/ HTTP/1.1[crlf]Host:\navt.bdtunnelproxy.xyz[crlf]Upgrade: websocket[crlf][crlf",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "sri_lanka_mobitel_0_unlimited",
+    "friendlyName": "🇱🇰 Sri lanka mobitel 0 unlimited ",
+    "method": "http",
+    "payload": "CONNECT [host_port]@media-exp1.licdn.com [protocol][crlf]Host:\nmedia-exp1.licdn.com[crlf]X-Online-Host: media-exp1.licdn.com[crlf]X-Forward-Host:\nmedia-exp1.licdn.com[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]\n[crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "my_tell_business",
+    "friendlyName": "🇲🇲 MY Tell business",
+    "method": "ssl",
+    "payload": "",
+    "sniHost": "mobile.googel.com",
+    "message": "select my tell server",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "ksa_yaqoot_test",
+    "friendlyName": "KSA YAQOOT TEST",
+    "method": "http",
+    "payload": "GET wss://avt.bdtunnelproxy.xyz HTTP/1.1[crlf]Host:\navt.bdtunnelproxy.xyz[crlf]Connection: upgrade[crlf]Upgrade: websocket[crlf]\n[crlf]~avt.bdtunnelproxy.xyz",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "egypt_orange_unlimited_2022",
+    "friendlyName": "🇪🇬Egypt Orange unlimited 2022",
+    "method": "http",
+    "payload": "GET wss://avt.bdtunnelproxy.xyz HTTP/1.1[crlf]Host:\navt.bdtunnelproxy.xyz[crlf]Connection: upgrade[crlf]Upgrade: websocket[crlf]\n[crlf]~avt.bdtunnelproxy.xyz",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "palestine_unlimited",
+    "friendlyName": "🇵🇸 palestine unlimited",
+    "method": "http",
+    "payload": "CONNECT http://[rotate=zoom.us;m.partner.co.il/]/\nHTTP/1.1[crlf]Host: [rotate=zoom.us;m.partner.co.il/][crlf]Connection: Keep-\nAlive[crlf][crlf]CONNECT [host_port] [protocol][crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "el_salvador_claro",
+    "friendlyName": "🇸🇻 EL Salvador claro ",
+    "method": "http",
+    "payload": "GET wss://api.chivo2.com HTTP/1.1[crlf]Host:\navt.bdtunnelproxy.xyz[crlf]Upgrade: websocket[crlf][crlf]~avt.bdtunnelproxy.xyz",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "morocco_ofppt",
+    "friendlyName": "🇲🇦 Morocco ofppt",
+    "method": "http",
+    "payload": "GET ssl://autogig.electude.eu HTTP/1.1[crlf]Host:\nhz.bdtunnelproxy.xyz[crlf]Connection: upgrade[crlf]Proxy-Connection: keep-\nalive[crlf]Upgrade: websocket, HTTP/3.0[crlf]Sec-WebSocket-Extensions:\nsuperspeed[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇲🇦"
+  },
+  {
+    "id": "zain_free_03",
+    "friendlyName": "🇸🇦 ZAIN FREE 03🔥",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "zain_free_04",
+    "friendlyName": "🇸🇦 ZAIN FREE 04",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "zain_free_05",
+    "friendlyName": "🇸🇦 ZAIN FREE 05👍",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "zain_free_06",
+    "friendlyName": "🇸🇦 ZAIN FREE 06💞",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "mobily_60_sar_new",
+    "friendlyName": "🇸🇦 MOBILY 60 SAR NEW",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "pakistan_zong_whatsapp",
+    "friendlyName": "🇵🇰 PAKISTAN ZONG WHATSAPP ",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host: www.whatsapp.net[crlf]Upgrade:\nwebsocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "airplane ✈️ mode ",
+    "countryFlag": "🇵🇰"
+  },
+  {
+    "id": "pakistan_zong_facebook",
+    "friendlyName": "🇵🇰 PAKISTAN ZONG FACEBOOK",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host: h.facebook.com[crlf]Upgrade:\nwebsocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "iff no connect ✈️ 2 3 time",
+    "countryFlag": "🇵🇰"
+  },
+  {
+    "id": "ksa_zain_3_5_sar_10_gb",
+    "friendlyName": "🇸🇦KSA ZAIN 3.5 SAR 10-GB",
+    "method": "ssl",
+    "payload": "",
+    "sniHost": "lite.facebook.com",
+    "message": "",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "ksa_zain_anghami",
+    "friendlyName": "🇸🇦KSA Zain Anghami",
+    "method": "ssl",
+    "payload": "",
+    "sniHost": "www.anghami.com",
+    "message": "",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "ksa_zain_nx2",
+    "friendlyName": "🇸🇦KSA Zain Nx2",
+    "method": "ssl",
+    "payload": "",
+    "sniHost": "mobile.netflix.com",
+    "message": "NX2 SEND 959",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "ksa_zain_tiktok_pack",
+    "friendlyName": "🇸🇦 KSA ZAIN TIKTOK PACK",
+    "method": "ssl",
+    "payload": "",
+    "sniHost": "m.tiktok.com",
+    "message": "",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "ksa_zain_y25___me40_pack",
+    "friendlyName": "🇸🇦 KSA ZAIN Y25 & ME40 PACK",
+    "method": "ssl",
+    "payload": "",
+    "sniHost": "www.youtube.com",
+    "message": "",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "mobily_games_69_sr",
+    "friendlyName": "🇸🇦Mobily Games 69 SR",
+    "method": "http",
+    "payload": "GET wss://avt.bdtunnelproxy.xyz HTTP/1.1[crlf]Host:\navt.bdtunnelproxy.xyz[crlf]Upgrade: WebServer(Cloudflare)[crlf]\n[crlf]~avt.bdtunnelproxy.xyz",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "mobily_games_69_sr_81",
+    "friendlyName": "🇸🇦Mobily Games 69 SR 🔥",
+    "method": "http",
+    "payload": "GET wss://avt.bdtunnelproxy.xyz HTTP/1.1[crlf]Host:\navt.bdtunnelproxy.xyz[crlf]Upgrade: WebServer(Cloudflare)[crlf]\n[crlf]~avt.bdtunnelproxy.xyz",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "sudan_zain_unlimited",
+    "friendlyName": "🇸🇩 Sudan zain unlimited ",
+    "method": "ssl",
+    "payload": "",
+    "sniHost": "komaharkia.com",
+    "message": "",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "ksa_yaqoot_free_internet_01",
+    "friendlyName": "🇸🇦KSA Yaqoot Free Internet 01",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "philippines_globe_tm_free",
+    "friendlyName": "🇵🇭 | Philippines Globe TM Free",
+    "method": "http",
+    "payload": "GET wss://umr.bdtunnelproxy.xyz HTTP/1.1[crlf]Host:\numr.bdtunnelproxy.xyz[crlf]Connection: upgrade[crlf]Upgrade: websocket[crlf]\n[crlf]~umr.bdtunnelproxy.xyz",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "libya_orange_unlimited",
+    "friendlyName": "🇱🇾 Libya orange unlimited🍊",
+    "method": "http",
+    "payload": "GET HTTP/1.1[crlf]Host: wapshop.gameloft.com[lf]Host:\nwww.5g.globe.com.ph[crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "ksa_zain_vb3_05",
+    "friendlyName": "🇸🇦 KSA ZAIN VB3 05#",
+    "method": "http",
+    "payload": "CONNECT [host_port] [protocol][crlf]Host: skype.com[crlf]X-\nOnline-Host: skype.com[crlf]X-Forward-Host: skype.com[crlf]X-Forwarded-For:\nskype.com[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "ksa_stc_tiktok",
+    "friendlyName": "🇸🇦 KSA STC TIKTOK ",
+    "method": "ssl",
+    "payload": "",
+    "sniHost": "mobile.tiktok.com",
+    "message": "TYPE 89026 SEND 900",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "guatemala_pack_q99_jdg",
+    "friendlyName": "🇬🇹Guatemala Pack Q99 JDG",
+    "method": "http",
+    "payload": "HTTP/MMSC [lf]Host: www.instagram.com[crlf]Connection: keep-\nalive[lf][lf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "kenya_all_youtube",
+    "friendlyName": "🇰🇪 Kenya all YouTube ",
+    "method": "http",
+    "payload": "",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "giga_study",
+    "friendlyName": "🇵🇭 GIGA STUDY",
+    "method": "http",
+    "payload": "CONNECT iytimg.com@[host_port] [protocol][crlf]Host:\niytimg.com[crlf]X-Online-Host: iytimg.com[crlf]Connection: Keep-Alive[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "giga_work",
+    "friendlyName": "🇵🇭 GIGA WORK",
+    "method": "http",
+    "payload": "CONNECT viber.com@[host_port] [protocol][crlf]Host:\nviber.com[crlf]X-Online-Host: viber.com[crlf]Connection: Keep-Alive[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "giga_stories",
+    "friendlyName": "🇵🇭 Giga Stories",
+    "method": "http",
+    "payload": "CONNECT static.muscdn.com@[host_port] [protocol][crlf]Host:\nstatic.muscdn.com[crlf]X-Online-Host: static.muscdn.com[crlf]Connection: Keep-\n\fAlive[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "vietnam_mobile_unlimited",
+    "friendlyName": "🇻🇳Vietnam mobile unlimited ",
+    "method": "http",
+    "payload": "DELETE http://vietnamobile.com.vn HTTP/1.1[crlf]Host:\nhttp://vietnamobile.com.vn[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "atom_game",
+    "friendlyName": "ATOM GAME 🎮",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "ksa_mobily_39_sar",
+    "friendlyName": "🇸🇦KSA MOBILY 39 SAR",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "malitel",
+    "friendlyName": "🇲🇱 malitel",
+    "method": "ssl",
+    "payload": "",
+    "sniHost": "www.moov-africa.ml",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "tajikistan_megafon",
+    "friendlyName": "🇹🇯 Tajikistan Megafon ",
+    "method": "ssl",
+    "payload": "",
+    "sniHost": "media-share-2022.s3.dualstack.eu.eask1-.amazonaws.com",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "tajikistan_gamer_pack",
+    "friendlyName": "🇹🇯 Tajikistan gamer pack",
+    "method": "ssl",
+    "payload": "",
+    "sniHost": "253dwww.pubgmobile.com",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "ksa_zain_all_package_02",
+    "friendlyName": "🇸🇦KSA ZAIN ALL PACKAGE 02",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "orange_mali",
+    "friendlyName": "🇲🇱 ORANGE MALI",
+    "method": "http",
+    "payload": "HTTP/ 1.1 200[crlf]ServerToken\n[lf]Host:m.orangemali.com[crlf]Payload Created q Tricks[lf]Connection: Keep-\nAlive[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "uganda_airtel",
+    "friendlyName": "🇺🇬 UGANDA Airtel ",
+    "method": "http",
+    "payload": "HTTP/1.0[crlf]Host:\nhttp://www.splashlearn.com[crlf]Connection: keep-alive[crlf]X-Online-Host:\nwww.splashlearn.com[crlf]X-Forwarded-For: www.splashlearn.com[crlf]Referrer:\nwww.splashlearn.com[crlf]X-Forward-Host: www.splashlearn.com[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇮🇳"
+  },
+  {
+    "id": "nigeria_mtn_unlimited",
+    "friendlyName": "🇳🇬 Nigeria mtn unlimited",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host: zh.bdtunnelproxy.xyz[crlf]Upgrade:\nwebsocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "ksa_zain_all_package_03",
+    "friendlyName": "🇸🇦KSA ZAIN ALL PACKAGE 03",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "ksa_zain_all_package_04",
+    "friendlyName": "🇸🇦KSA ZAIN ALL PACKAGE 04",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host: umr.bdtunnelproxy.xyz[crlf]X-\nOnline-Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade:\nwebsocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "ksa_zain_all_package_05",
+    "friendlyName": "🇸🇦KSA ZAIN ALL PACKAGE 05",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "trinidad_digicel_unlimited_data",
+    "friendlyName": "🇹🇹TRINIDAD Digicel unlimited data",
+    "method": "http",
+    "payload": "GET wss://avt.bdtunnelproxy.xyz HTTP/1.1[crlf]Host:\navt.bdtunnelproxy.xyz[crlf]Upgrade: WebServer(Cloudflare)[crlf]\n[crlf]~avt.bdtunnelproxy.xyz",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "trinidad_digicel_unlimited_02",
+    "friendlyName": "🇹🇹TRINIDAD Digicel unlimited 02",
+    "method": "http",
+    "payload": "GET wss://avt.bdtunnelproxy.xyz HTTP/1.1[crlf]Host:\navt.bdtunnelproxy.xyz[crlf]Upgrade: WebServer(Cloudflare)[crlf]\n[crlf]~avt.bdtunnelproxy.xyz",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "guatemala_free_01",
+    "friendlyName": "🇬🇹Guatemala free 01",
+    "method": "http",
+    "payload": "GET wss://d29sagimgw5swt.cloudfront.net HTTP/1.1[crlf]Host:\ntestprocessorpay.com[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "MahouGt 🇬🇹",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "guatemala_free_02",
+    "friendlyName": "🇬🇹Guatemala free 02",
+    "method": "http",
+    "payload": "GET wss://d2phkvtrrlo8iq.cloudfront.net HTTP/1.1[crlf]Host:\ntestprocessorpay.com[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "ksa_jawwy_free_01",
+    "friendlyName": "🇸🇦KSA JAWWY FREE 01",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "ksa_jawwy_free_02",
+    "friendlyName": "🇸🇦KSA JAWWY FREE 02",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\n\fUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "honduras_claro_free_01",
+    "friendlyName": "🇭🇳Honduras claro free 01",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd29sagimgw5swt.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade:\nwebsocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇦🇪"
+  },
+  {
+    "id": "honduras_claro_free_02",
+    "friendlyName": "🇭🇳Honduras claro free 02",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd2phkvtrrlo8iq.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade:\nwebsocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇦🇪"
+  },
+  {
+    "id": "claro_nicaragua_01",
+    "friendlyName": "🇳🇮 Claro nicaragua 01",
+    "method": "http",
+    "payload": "GET wss://d29sagimgw5swt.cloudfront.net HTTP/1.1[crlf]Host:\ntestprocessorpay.com[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "claro_nicaragua_02",
+    "friendlyName": "🇳🇮Claro nicaragua 02",
+    "method": "http",
+    "payload": "GET wss://d2phkvtrrlo8iq.cloudfront.net HTTP/1.1[crlf]Host:\ntestprocessorpay.com[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "honduras_tigo_aws_1",
+    "friendlyName": "🇭🇳Honduras tigo aws 1 ",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd29sagimgw5swt.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade:\nwebsocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇦🇪"
+  },
+  {
+    "id": "honduras_tigo_aws_2",
+    "friendlyName": "🇭🇳Honduras tigo aws-2",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd2phkvtrrlo8iq.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade:\nwebsocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇦🇪"
+  },
+  {
+    "id": "el_salvador_unlimited_01",
+    "friendlyName": "🇳🇮El Salvador unlimited 01",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd29sagimgw5swt.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade:\nwebsocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "el_salvador_unlimited_02",
+    "friendlyName": "🇳🇮 El Salvador unlimited 02",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd2phkvtrrlo8iq.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade:\nwebsocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "brazil_vivo_gratuitamente_02",
+    "friendlyName": "🇧🇷 Brazil vivo gratuitamente 02",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "brazil_vivo_gratuitamente_02_121",
+    "friendlyName": "🇧🇷 Brazil vivo gratuitamente 02",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "iraq_oodi_free_01",
+    "friendlyName": "🇮🇶 IRAQ OODI FREE 01",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]\n[crlf]~d29sagimgw5swt.cloudfront.net",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "iraq_oodi_free_02",
+    "friendlyName": "🇮🇶IRAQ OODI FREE 02",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]\n[crlf]~d3e3fhf0aqc6sk.cloudfront.net",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "tigo_hn_y_claro_multi_01",
+    "friendlyName": " 🇭🇳TIGO HN Y CLARO MULTI 01",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "tigo_hn_y_claro_multi_02",
+    "friendlyName": " 🇭🇳TIGO HN Y CLARO MULTI 02",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "egypt_vodafone_01",
+    "friendlyName": "🇪🇬 EGYPT Vodafone 01",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "egypt_vodafone_02",
+    "friendlyName": "🇪🇬 EGYPT Vodafone 02",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "turkmenistan_free_net_01",
+    "friendlyName": "🇹🇲 TURKMENISTAN FREE NET 01",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "turkmenistan_free_net_02",
+    "friendlyName": "🇹🇲 TURKMENISTAN FREE NET 02",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "ph_smart_tnt_free_01",
+    "friendlyName": "🇵🇭 Ph Smart TNT FREE 01",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]\n[crlf]~d29sagimgw5swt.cloudfront.net",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "ph_smart_tnt_free_02",
+    "friendlyName": "🇵🇭 Ph Smart TNT FREE 02",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]\n[crlf]~d3e3fhf0aqc6sk.cloudfront.net",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "claro_guatemala_new_01",
+    "friendlyName": "🇬🇹 claro Guatemala new 01",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "claro_guatemala_new_02",
+    "friendlyName": "🇬🇹 claro Guatemala new 02",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\n\fUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "qatar_ooredoo_6o_flexi_01",
+    "friendlyName": "🇶🇦 QATAR OOREDOO 6O-FLEXI 01",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "qatar_ooredoo_6o_flexi_02",
+    "friendlyName": "🇶🇦 QATAR OOREDOO 6O-FLEXI 02",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "oman_tell_snap_chat_pack_01",
+    "friendlyName": "🇴🇲Oman tell snap chat pack 01",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "oman_tell_snapchat_pack_02",
+    "friendlyName": "🇴🇲Oman tell Snapchat pack 02",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "el_salvador_01",
+    "friendlyName": "🇳🇮 El Salvador 01",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "el_salvador_02",
+    "friendlyName": "🇳🇮 El Salvador 02",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "ghana_mtn_500_mb",
+    "friendlyName": "🇬🇭 GHANA MTN 500 MB",
+    "method": "http",
+    "payload": "GET wss://moh.gov.gh/ HTTP/1.1[crlf]Host:\nhz.bdtunnelproxy.xyz[crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "TEMPERATURE PRINCE",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "ghana_20_gb",
+    "friendlyName": "🇬🇭 GHANA 20 GB",
+    "method": "http",
+    "payload": "GET wss://gij.edu.gh HTTP/1.1[crlf]Host:\nppp.bdtunnelproxy.xyz[crlf]Connection: upgrade[crlf]Upgrade: websocket[crlf]\n[crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "iraq_asiacel",
+    "friendlyName": "🇮🇶 Iraq Asiacel",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host: hz.bdtunnelproxy.xyz[crlf]Upgrade:\nwebsocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "dominican_viva_unlimited",
+    "friendlyName": "🇩🇴 DOMINICAN viva unlimited",
+    "method": "http",
+    "payload": " GET https://internetmovil.viva.com.do HTTP/1.1[cr]Host:\ninternetmovil.viva.com.do[cr]Connection:keep-alive[cr]Proxy-Connection: keep-\nalive[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "claro_zero_balance",
+    "friendlyName": "🇩🇴CLARO ZERO BALANCE",
+    "method": "http",
+    "payload": "GET http://coronavirusrd.gob.do HTTP/1.1[crlf]Host:\ncoronavirusrd.gob.do[crlf]Connection: keep-alive[crlf]Proxy-Connection: keep-\nalive[crlf]X-Forwarded-For: coronavirusrd.gob.do[crlf]X-Online-Host:\ncoronavirusrd.gob.do[crlf]X-Forward-Host: coronavirusrd.gob.do[crlf][crlf]\n[delay]CONNECT [host_port] HTTP/1.1[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "claro_rep_blic_dominicana",
+    "friendlyName": "🇩🇴CLARO REPÚBLIC DOMINICANA ",
+    "method": "http",
+    "payload": "GET http://coronavirusrd.gob.do/ HTTP/1.1[crlf]Host:\ncoronavirusrd.gob.do[crlf]X-Forwarded-For: coronavirusrd.gob.do[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "dominican_republic_claro",
+    "friendlyName": "🇩🇴DOMINICAN REPUBLIC CLARO",
+    "method": "http",
+    "payload": "GET http://coronavirusrd.gob.do/ HTTP/1.1[crlf]Host:\ncoronavirusrd.gob.do[crlf]X-Forwarded-For: coronavirusrd.gob.do[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "dominican_republic_claro_rd",
+    "friendlyName": "🇩🇴DOMINICAN REPUBLIC CLARO-RD",
+    "method": "http",
+    "payload": "GET http://paquetesyrecargas.claro.com.do/odatos?\nuser=PREPAGO HTTP/1.1[crlf]Host: paquetesyrecargas.claro.com.do[lf][lf]GET /\nHTTP/1.1[crlf]Host: https://youtube.com/c/BrayanGtt[crlf]Upgrade:\nwebsocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "iraq_earthnk",
+    "friendlyName": "🇮🇶 Iraq Earthnk 💯",
+    "method": "http",
+    "payload": "GET wss://hz.bdtunnelproxy.xyz HTTP/1.1[crlf]Host:\nhz.bdtunnelproxy.xyz[crlf]Upgrade: WebServer(Cloudflare)[crlf]\n[crlf]~hz.bdtunnelproxy.xyz",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "iraq_asiacell",
+    "friendlyName": "🇮🇶 Iraq Asiacell 💯",
+    "method": "http",
+    "payload": "GET wss://hz.bdtunnelproxy.xyz HTTP/1.1[crlf]Host:\nhz.bdtunnelproxy.xyz[crlf]Upgrade: WebServer(Cloudflare)[crlf]\n[crlf]~hz.bdtunnelproxy.xyz",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "trinidad_digicel_unlimited",
+    "friendlyName": "🇹🇹TRINIDAD DIGICEL UNLIMITED 💯",
+    "method": "http",
+    "payload": "GET wss://zh.bdtunnelproxy.xyz HTTP/1.1[crlf]Host:\nzh.bdtunnelproxy.xyz[crlf]Upgrade: WebServer(Cloudflare)[crlf]\n[crlf]~zh.bdtunnelproxy.xyz",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "ksa_mobily_60_riyal",
+    "friendlyName": "🇸🇦KSA MOBILY 60 RIYAL",
+    "method": "http",
+    "payload": "GET ssl://support.canvas.snapchat.com/\nHTTP/1.1[crlf]Host:ppp.bdtunnelproxy.xyz [crlf]Connection: upgrade[crlf]Proxy-\nConnection: keep-alive[crlf]Upgrade: websocket, HTTP/3.0[crlf]Sec-WebSocket-\nExtensions: superspeed[crlf][crlf]~support.canvas.snapchat.com",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "id": "japan_free",
+    "friendlyName": "🇯🇵 japan free",
+    "method": "http",
+    "payload": "CONNECT [host_port]@www.kw.zain.com [protocol][crlf][crlf]POST\nhttp://www.kw.zain.com [protocol][crlf]Host: www.kw.zain.com[crlf]X-Online-Host:\nwww.kw.zain.com[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "tanzania_airtel_free_01",
+    "friendlyName": "🇹🇿 Tanzania Airtel Free 01",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇮🇳"
+  },
+  {
+    "id": "tanzania_airtel_free_02",
+    "friendlyName": "🇹🇿 Tanzania Airtel Free 02",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇮🇳"
+  },
+  {
+    "id": "palestine",
+    "friendlyName": "🇵🇸 Palestine 💯",
+    "method": "http",
+    "payload": "GET wss://zh.bdtunnelproxy.xyz HTTP/1.1[crlf]Host:\nppp.bdtunnelproxy.xyz[crlf]Upgrade: WebServer(Cloudflare)[crlf]\n[crlf]~zh.bdtunnelproxy.xyz",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "trinidad_digicel_bmobile",
+    "friendlyName": "🇹🇹TRINIDAD DIGICEL/Bmobile",
+    "method": "http",
+    "payload": "GET wss://zh.bdtunnelproxy.xyz HTTP/1.1[crlf]Host:\nzh.bdtunnelproxy.xyz[crlf]Upgrade: WebServer(Cloudflare)[crlf]\n[crlf]~zh.bdtunnelproxy.xyz",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "argentina_personal",
+    "friendlyName": "🇦🇷 Argentina personal",
+    "method": "http",
+    "payload": "GET wss://www.argentina.gob.ar HTTP/1.1[crlf]Host:\nzh.bdtunnelproxy.xyz[crlf]Upgrade: WebServer(Cloudflare)[crlf]\n[crlf]~zh.bdtunnelproxy.xyz",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "costa_rica_claro_01",
+    "friendlyName": "🇨🇷 COSTA RICA CLARO 01",
+    "method": "http",
+    "payload": "GET wss://d2phkvtrrlo8iq.cloudfront.net HTTP/1.1[crlf]Host:\ntestprocessorpay.com[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "costa_rica_claro_02",
+    "friendlyName": "🇨🇷 COSTA RICA CLARO 02",
+    "method": "http",
+    "payload": "GET wss://d29sagimgw5swt.cloudfront.net HTTP/1.1[crlf]Host:\ntestprocessorpay.com[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "myanmar_oreedo_free",
+    "friendlyName": "🇲🇲 MYANMAR OREEDO FREE",
+    "method": "ssl",
+    "payload": "",
+    "sniHost": "mpu-ecommerce.com",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "paraguay_gamer_pack",
+    "friendlyName": "🇵🇾 Paraguay gamer pack ",
+    "method": "ssl",
+    "payload": "",
+    "sniHost": "play.mobilelegends.com",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "brazil_vivo_gratuitamente___01",
+    "friendlyName": "🇧🇷 Brazil vivo gratuitamente 🆕 01",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "brazil_vivo_gratuitamente_04",
+    "friendlyName": "🇧🇷 Brazil vivo gratuitamente 04",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "mexico_telcel_01",
+    "friendlyName": "🇮🇹MEXICO Telcel 01",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd29sagimgw5swt.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]\n[crlf]~d29sagimgw5swt.cloudfront.net",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "mexico_telcel_02",
+    "friendlyName": "🇮🇹MEXICO Telcel 02",
+    "method": "http",
+    "payload": "GET / HTTP/1.1[crlf]Host:\nd2phkvtrrlo8iq.cloudfront.net[crlf]X-Online-Host: [host][crlf]Connection:\nUpgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]\n[crlf]~d3e3fhf0aqc6sk.cloudfront.net",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "tanzania_vodacom__halotel",
+    "friendlyName": "🇹🇿 | TANZANIA VODACOM /HALOTEL",
+    "method": "ssl",
+    "payload": "",
+    "sniHost": "Vodacom.co.tz",
+    "message": "",
+    "countryFlag": "🌐"
+  },
+  {
+    "id": "ksa_zain_60_sar",
+    "friendlyName": "🇸🇦.KSA ZAIN 60 SAR",
+    "method": "http",
+    "payload": "GET wss://avt.bdtunnelproxy.xyz HTTP/1.1[crlf]Host:\navt.bdtunnelproxy.xyz[crlf]Upgrade: WebServer(Cloudflare)[crlf]\n[crlf]~avt.bdtunnelproxy.xyz",
+    "sniHost": "",
+    "message": "",
+    "countryFlag": "🇸🇦"
+  }
+]

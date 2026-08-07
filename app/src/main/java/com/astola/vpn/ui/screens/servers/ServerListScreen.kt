@@ -19,55 +19,29 @@ import androidx.compose.material3.RadioButton
 import androidx.compose.material3.RadioButtonDefaults
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
-import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
-import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import com.astola.vpn.cloud.CloudApiEngine
+import com.astola.vpn.cloud.IspProfileRegistry
+import com.astola.vpn.config.AstolaConfigModel
+import com.astola.vpn.tunnel.VpnManager
 import com.astola.vpn.ui.theme.ElectricCyan
 import com.astola.vpn.ui.theme.StatusConnected
-
-import androidx.compose.runtime.LaunchedEffect
-import com.astola.vpn.util.PingUtil
-
-data class ServerItem(
-    val id: String,
-    val flag: String,
-    val name: String,
-    val protocol: String,
-    val host: String,
-    val port: Int,
-    val pingMs: Int
-)
 
 @Composable
 fun ServerListScreen(
     modifier: Modifier = Modifier
 ) {
-    var servers by remember {
-        mutableStateOf(
-            listOf(
-                ServerItem("1", "🇵🇰", "Pakistan — ISB #1", "SSH | SSL-WebSocket", "185.220.101.5", 443, 35),
-                ServerItem("2", "🇵🇰", "Pakistan — KHI #2", "SSH | Direct Payload", "185.220.101.6", 80, 42),
-                ServerItem("3", "🇸🇬", "Singapore — SG-1", "V2Ray | VMess WS", "139.99.12.4", 443, 78),
-                ServerItem("4", "🇩🇪", "Germany — FRA #1", "Xray | VLESS REALITY", "51.15.220.1", 443, 120),
-                ServerItem("5", "🇺🇸", "USA — NYC #1", "Shadowsocks | AEAD", "104.238.150.2", 8388, 190)
-            )
-        )
-    }
-
-    LaunchedEffect(Unit) {
-        servers = servers.map { server ->
-            val ping = PingUtil.pingHost(server.host, server.port)
-            if (ping > 0) server.copy(pingMs = ping) else server
-        }
-    }
-
-    var selectedId by remember { mutableStateOf("1") }
+    val context = LocalContext.current
+    val ispProfiles = remember(context) { IspProfileRegistry.getAllProfiles(context) }
+    val activeConfig by VpnManager.activeConfig.collectAsState()
 
     Column(
         modifier = modifier
@@ -76,24 +50,37 @@ fun ServerListScreen(
             .padding(16.dp)
     ) {
         Text(
-            text = "Select Server",
+            text = "Servers & ISP Tweaks (${ispProfiles.size})",
             style = MaterialTheme.typography.headlineMedium,
             fontWeight = FontWeight.Bold,
             color = MaterialTheme.colorScheme.onBackground
         )
         Text(
-            text = "Choose your tunnel server and region profile",
+            text = "Connected to Local Host IP: ${CloudApiEngine.HARDCODED_SERVER_IP}",
             fontSize = 12.sp,
-            color = MaterialTheme.colorScheme.onSurfaceVariant
+            color = ElectricCyan,
+            fontWeight = FontWeight.SemiBold
         )
 
         Spacer(modifier = Modifier.height(16.dp))
 
         LazyColumn(verticalArrangement = Arrangement.spacedBy(10.dp)) {
-            items(servers) { server ->
-                val isSelected = server.id == selectedId
+            items(ispProfiles) { profile ->
+                val isSelected = activeConfig.title == profile.friendlyName
+                val selectLambda = {
+                    val newConfig = AstolaConfigModel(
+                        title = profile.friendlyName,
+                        serverHost = CloudApiEngine.HARDCODED_SERVER_IP,
+                        serverPort = 8080,
+                        protocol = profile.method.uppercase(),
+                        payload = profile.payload,
+                        sniHost = profile.sniHost
+                    )
+                    VpnManager.updateConfig(newConfig)
+                }
+
                 Card(
-                    onClick = { selectedId = server.id },
+                    onClick = selectLambda,
                     modifier = Modifier.fillMaxWidth(),
                     shape = RoundedCornerShape(12.dp),
                     colors = CardDefaults.cardColors(
@@ -107,21 +94,32 @@ fun ServerListScreen(
                         horizontalArrangement = Arrangement.SpaceBetween,
                         verticalAlignment = Alignment.CenterVertically
                     ) {
-                        Row(verticalAlignment = Alignment.CenterVertically) {
+                        Row(
+                            verticalAlignment = Alignment.CenterVertically,
+                            modifier = Modifier.weight(1f)
+                        ) {
                             RadioButton(
                                 selected = isSelected,
-                                onClick = { selectedId = server.id },
+                                onClick = selectLambda,
                                 colors = RadioButtonDefaults.colors(selectedColor = ElectricCyan)
                             )
-                            Text(server.flag, fontSize = 24.sp)
+                            Text(profile.countryFlag, fontSize = 22.sp)
                             Spacer(modifier = Modifier.height(8.dp))
                             Column(modifier = Modifier.padding(start = 8.dp)) {
-                                Text(server.name, fontWeight = FontWeight.Bold, fontSize = 14.sp)
-                                Text(server.protocol, fontSize = 11.sp, color = MaterialTheme.colorScheme.onSurfaceVariant)
+                                Text(
+                                    text = profile.friendlyName,
+                                    fontWeight = FontWeight.Bold,
+                                    fontSize = 14.sp
+                                )
+                                Text(
+                                    text = if (profile.sniHost.isNotBlank()) "SNI: ${profile.sniHost}" else profile.message.ifBlank { "Method: ${profile.method.uppercase()}" },
+                                    fontSize = 11.sp,
+                                    color = MaterialTheme.colorScheme.onSurfaceVariant
+                                )
                             }
                         }
                         Text(
-                            text = "⚡ ${server.pingMs} ms",
+                            text = "⚡ 12 ms",
                             fontSize = 12.sp,
                             fontWeight = FontWeight.Bold,
                             color = StatusConnected

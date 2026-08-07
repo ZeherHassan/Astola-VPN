@@ -16,3 +16,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "AstolaVPN"
 include(":app")
+include(":admin")

@@ -9,10 +9,11 @@ import java.util.logging.Logger
 
 object CloudServerRepository {
     private val logger = Logger.getLogger(CloudServerRepository::class.java.name)
-    private const val DEFAULT_CLOUD_CONFIG_URL = "https://raw.githubusercontent.com/astola-vpn/configs/main/servers.json"
+    const val HARDCODED_SERVER_DOMAIN = "vpn.zeherhassan.com"
+    private const val DEFAULT_CLOUD_CONFIG_URL = "https://$HARDCODED_SERVER_DOMAIN/astola/v1/servers"
 
     /**
-     * Downloads dynamic server and payload configurations from the remote cloud repository.
+     * Downloads dynamic server and payload configurations from the local/remote cloud repository.
      */
     suspend fun fetchCloudConfigs(urlStr: String = DEFAULT_CLOUD_CONFIG_URL): String? {
         return withContext(Dispatchers.IO) {

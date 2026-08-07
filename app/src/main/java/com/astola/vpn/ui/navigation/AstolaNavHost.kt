@@ -7,7 +7,6 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import com.astola.vpn.ui.screens.home.HomeScreen
 import com.astola.vpn.ui.screens.logs.LogsScreen
-import com.astola.vpn.ui.screens.payload.PayloadEditorScreen
 import com.astola.vpn.ui.screens.servers.ServerListScreen
 import com.astola.vpn.ui.screens.settings.SettingsScreen
 import com.astola.vpn.ui.screens.splittunnel.SplitTunnelScreen
@@ -27,9 +26,6 @@ fun AstolaNavHost(
         }
         composable(Screen.Servers.route) {
             ServerListScreen()
-        }
-        composable(Screen.Payload.route) {
-            PayloadEditorScreen()
         }
         composable(Screen.SplitTunnel.route) {
             SplitTunnelScreen()
