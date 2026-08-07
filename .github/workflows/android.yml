@@ -21,16 +21,31 @@ jobs:
         java-version: '17'
         distribution: 'temurin'
 
+    - name: Setup Android SDK
+      uses: android-actions/setup-android@v3
+
     - name: Setup Gradle 8.4
       uses: gradle/actions/setup-gradle@v4
       with:
         gradle-version: '8.4'
 
-    - name: Build Debug APK
-      run: gradle assembleDebug --no-daemon
+    - name: Generate Gradle Wrapper
+      run: gradle wrapper --gradle-version 8.4
 
-    - name: Upload Debug APK Artifact
+    - name: Make gradlew executable
+      run: chmod +x gradlew
+
+    - name: Build Client App & Admin App Debug APKs
+      run: ./gradlew :app:assembleDebug :admin:assembleDebug --stacktrace
+
+    - name: Upload Astola VPN Client APK
       uses: actions/upload-artifact@v4
       with:
-        name: AstolaVPN-Debug-APK
+        name: AstolaVPN-Client-Debug-APK
         path: app/build/outputs/apk/debug/app-debug.apk
+
+    - name: Upload Astola VPN Admin APK
+      uses: actions/upload-artifact@v4
+      with:
+        name: AstolaVPN-Admin-Debug-APK
+        path: admin/build/outputs/apk/debug/admin-debug.apk
